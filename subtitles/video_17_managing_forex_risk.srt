@@ -1,0 +1,1743 @@
+0
+00:00:00,768 --> 00:00:03,840
+I'd like to continue with the discussion of foreign exchange
+
+0
+00:00:04,096 --> 00:00:05,120
+By talking about
+
+0
+00:00:05,376 --> 00:00:05,888
+Managing for
+
+0
+00:00:06,144 --> 00:00:06,912
+Foreign exchange expose
+
+0
+00:00:07,936 --> 00:00:08,960
+There are three types
+
+0
+00:00:09,216 --> 00:00:09,728
+F4
+
+0
+00:00:09,984 --> 00:00:11,008
+Foreign exchange exposure
+
+0
+00:00:13,312 --> 00:00:14,080
+Transactions expose
+
+0
+00:00:15,104 --> 00:00:15,872
+And operating exposure
+
+0
+00:00:18,432 --> 00:00:18,944
+Bossier
+
+0
+00:00:19,200 --> 00:00:19,968
+Is
+
+0
+00:00:20,224 --> 00:00:20,736
+The risk
+
+0
+00:00:20,992 --> 00:00:21,760
+The accounting perform
+
+0
+00:00:23,040 --> 00:00:23,552
+Company movie
+
+0
+00:00:23,808 --> 00:00:24,832
+Adversely affected
+
+0
+00:00:25,088 --> 00:00:27,392
+To the translation into the home currency
+
+0
+00:00:27,648 --> 00:00:29,696
+A foreign currency assets and liabilities
+
+0
+00:00:29,952 --> 00:00:30,464
+And
+
+0
+00:00:30,976 --> 00:00:32,000
+City consolidation
+
+0
+00:00:32,512 --> 00:00:33,792
+Can the home currency
+
+0
+00:00:34,048 --> 00:00:36,608
+Of foreign currency subsidiary accounts
+
+0
+00:00:37,376 --> 00:00:38,656
+Transaction exposure
+
+0
+00:00:39,168 --> 00:00:40,704
+Cash flow exposure
+
+0
+00:00:40,960 --> 00:00:41,984
+It's the risk that
+
+0
+00:00:42,496 --> 00:00:44,544
+Foreign currency-denominated cash flows
+
+0
+00:00:45,824 --> 00:00:47,360
+Translated into home current
+
+0
+00:00:47,616 --> 00:00:48,128
+Currency
+
+0
+00:00:48,384 --> 00:00:49,920
+Who be adversely affected
+
+0
+00:00:50,432 --> 00:00:52,736
+What were talking with transactions exposure
+
+0
+00:00:52,992 --> 00:00:53,504
+About
+
+0
+00:00:53,760 --> 00:00:54,528
+Contracted
+
+0
+00:00:54,784 --> 00:00:55,552
+Cash flows
+
+0
+00:00:55,808 --> 00:00:57,856
+Cash flows that are typically occur
+
+0
+00:00:58,880 --> 00:00:59,392
+Within the
+
+0
+00:01:00,160 --> 00:01:00,672
+Humans
+
+0
+00:01:00,928 --> 00:01:01,696
+2 a year
+
+0
+00:01:01,952 --> 00:01:04,000
+Operating exposure is a much long
+
+0
+00:01:04,256 --> 00:01:05,536
+Longer-term concept
+
+0
+00:01:06,048 --> 00:01:08,608
+In fact it extends throughout the entire life of the come
+
+0
+00:01:09,888 --> 00:01:10,656
+It's the risk that the home
+
+0
+00:01:10,912 --> 00:01:11,424
+Home currency
+
+0
+00:01:11,680 --> 00:01:12,192
+Value
+
+0
+00:01:12,704 --> 00:01:14,752
+Of future expected cash flows
+
+0
+00:01:15,008 --> 00:01:16,800
+Will be adversely affected by unanticipated
+
+0
+00:01:17,056 --> 00:01:18,592
+Foreign exchange price changes
+
+0
+00:01:18,848 --> 00:01:20,896
+And it's expected cash flows
+
+0
+00:01:21,408 --> 00:01:21,920
+Can you throw
+
+0
+00:01:22,688 --> 00:01:23,712
+Entire life of the company
+
+0
+00:01:24,480 --> 00:01:25,248
+Can contribute to
+
+0
+00:01:25,504 --> 00:01:26,528
+To the companies
+
+0
+00:01:27,040 --> 00:01:27,808
+Value
+
+0
+00:01:28,832 --> 00:01:30,368
+We're not going to talk about operating school
+
+0
+00:01:30,624 --> 00:01:31,136
+Bossier
+
+0
+00:01:31,392 --> 00:01:32,928
+Until i talk about it
+
+0
+00:01:33,184 --> 00:01:34,208
+Net present value today
+
+0
+00:01:34,464 --> 00:01:36,768
+I'll just be talking about accounting exposure
+
+0
+00:01:38,048 --> 00:01:38,560
+Transactions expo
+
+0
+00:01:39,584 --> 00:01:42,400
+First of all accounting or translation expose
+
+0
+00:01:43,424 --> 00:01:45,728
+Translation exposure is the risk of losses
+
+0
+00:01:46,240 --> 00:01:47,264
+In the financial statements of a cup
+
+0
+00:01:47,520 --> 00:01:49,312
+Company when the assets and liabilities
+
+0
+00:01:49,824 --> 00:01:51,872
+Denominated in non-local currencies
+
+0
+00:01:52,128 --> 00:01:53,664
+Are subject to adverse changes in
+
+0
+00:01:53,920 --> 00:01:54,688
+Can exchange rate movements
+
+0
+00:01:55,200 --> 00:01:56,736
+Whether the company has
+
+0
+00:01:56,992 --> 00:02:01,344
+Citrus overseas or not it may have monetary assets and liabilities
+
+0
+00:02:02,112 --> 00:02:03,392
+If these monetary assets and live
+
+0
+00:02:03,648 --> 00:02:06,208
+Liabilities are denominated in foreign exchange
+
+0
+00:02:06,720 --> 00:02:09,024
+They will be translated at the spot rate
+
+0
+00:02:09,536 --> 00:02:10,560
+On the balance sheet date
+
+0
+00:02:11,072 --> 00:02:12,608
+And then the gains and losses
+
+0
+00:02:12,864 --> 00:02:14,656
+Associated with these changes
+
+0
+00:02:14,912 --> 00:02:16,704
+In the value of those
+
+0
+00:02:16,960 --> 00:02:17,728
+Monetary assets in life
+
+0
+00:02:17,984 --> 00:02:18,752
+Liabilities
+
+0
+00:02:19,008 --> 00:02:19,776
+To be reported
+
+0
+00:02:20,032 --> 00:02:21,312
+In the profit and loss accounts
+
+0
+00:02:21,568 --> 00:02:23,360
+Whether the assets are
+
+0
+00:02:23,616 --> 00:02:25,408
+Monetary or dare
+
+0
+00:02:25,664 --> 00:02:26,944
+Property plant and equipment
+
+0
+00:02:27,200 --> 00:02:28,992
+Or working capital requirement
+
+0
+00:02:29,248 --> 00:02:33,600
+All of the assets and liabilities of a foreign domiciled
+
+0
+00:02:34,112 --> 00:02:37,952
+Foreign currency based of century consolidated into the company's accounts
+
+0
+00:02:38,208 --> 00:02:40,000
+Arkansas dated by a method
+
+0
+00:02:40,256 --> 00:02:41,792
+Call the current rate method
+
+0
+00:02:42,560 --> 00:02:43,584
+Current rate method
+
+0
+00:02:43,840 --> 00:02:44,352
+In general
+
+0
+00:02:44,864 --> 00:02:45,376
+Translate
+
+0
+00:02:45,632 --> 00:02:47,936
+All of the assets and liabilities
+
+0
+00:02:48,448 --> 00:02:49,472
+Of the century
+
+0
+00:02:49,984 --> 00:02:50,496
+Update spa
+
+0
+00:02:50,752 --> 00:02:51,264
+Heart rate
+
+0
+00:02:51,520 --> 00:02:52,288
+On the balance sheet date
+
+0
+00:02:53,312 --> 00:02:55,872
+If this process of consolidating
+
+0
+00:02:56,384 --> 00:02:59,200
+Foreign currency-denominated subsidiaries accounts
+
+0
+00:02:59,456 --> 00:03:00,736
+If the parent company
+
+0
+00:03:01,248 --> 00:03:03,552
+Cheats to foreign exchange gains or losses
+
+0
+00:03:03,808 --> 00:03:06,112
+East canton losses do not go through the proper
+
+0
+00:03:06,368 --> 00:03:07,136
+Law statement
+
+0
+00:03:07,648 --> 00:03:08,928
+The debit accredited
+
+0
+00:03:09,184 --> 00:03:10,464
+Directly to equity
+
+0
+00:03:10,720 --> 00:03:13,280
+To something called the statement of comprehensive income
+
+0
+00:03:14,048 --> 00:03:16,352
+So let's look at the accounts of ge
+
+0
+00:03:16,608 --> 00:03:17,888
+Ge has
+
+0
+00:03:18,400 --> 00:03:21,216
+Mini sub series located all over the world
+
+0
+00:03:21,472 --> 00:03:23,776
+And as you can see by this
+
+0
+00:03:24,032 --> 00:03:26,592
+Statement of comprehensive income
+
+0
+00:03:26,848 --> 00:03:27,872
+The translation or
+
+0
+00:03:28,128 --> 00:03:33,248
+Counting games can be considerable so this first line is the net earnings that
+
+0
+00:03:33,504 --> 00:03:35,296
+Cast from the profit and loss account
+
+0
+00:03:35,552 --> 00:03:37,600
+Enemy make chevrolet judgments
+
+0
+00:03:37,856 --> 00:03:38,624
+The adjustments
+
+0
+00:03:39,904 --> 00:03:41,440
+Investment securities
+
+0
+00:03:41,696 --> 00:03:42,464
+Anne from pitch
+
+0
+00:03:43,232 --> 00:03:44,256
+Benefit plans
+
+0
+00:03:44,768 --> 00:03:46,048
+But two of the adjustments
+
+0
+00:03:46,560 --> 00:03:48,352
+Are related to foreign exchange
+
+0
+00:03:48,608 --> 00:03:49,632
+And here we have
+
+0
+00:03:49,888 --> 00:03:51,936
+Currency translation adjustments
+
+0
+00:03:52,960 --> 00:03:55,008
+And here we have cash flow hedges
+
+0
+00:03:55,520 --> 00:03:56,544
+Peter hitches that
+
+0
+00:03:56,800 --> 00:03:58,336
+That were set up to offset
+
+0
+00:03:58,848 --> 00:03:59,872
+Is cash flow
+
+0
+00:04:00,128 --> 00:04:00,640
+Adjustments
+
+0
+00:04:01,152 --> 00:04:05,248
+And you can see the number 2.729 billion us dollars
+
+0
+00:04:05,504 --> 00:04:06,528
+His considerable
+
+0
+00:04:06,784 --> 00:04:09,088
+At 18% of income
+
+0
+00:04:09,600 --> 00:04:12,160
+This is something that management is likely to worry about
+
+0
+00:04:12,928 --> 00:04:13,696
+Ali baba's
+
+0
+00:04:13,952 --> 00:04:15,232
+Foreign exchange translation expo
+
+0
+00:04:15,488 --> 00:04:16,000
+Bossier
+
+0
+00:04:16,256 --> 00:04:17,024
+Comes from
+
+0
+00:04:17,280 --> 00:04:18,815
+Exposures that are
+
+0
+00:04:19,071 --> 00:04:20,351
+Not associated with cancer
+
+0
+00:04:20,607 --> 00:04:22,655
+Consolidation of overseas surgeries
+
+0
+00:04:22,911 --> 00:04:23,935
+It come through
+
+0
+00:04:24,447 --> 00:04:26,495
+Direct asset and liability accounts
+
+0
+00:04:27,263 --> 00:04:28,543
+If we go to the red herring
+
+0
+00:04:28,799 --> 00:04:30,847
+Prospectus page 103
+
+0
+00:04:31,103 --> 00:04:34,175
+We can see under interest and investment income
+
+0
+00:04:34,431 --> 00:04:35,199
+The footnote
+
+0
+00:04:35,455 --> 00:04:37,247
+Arnette interest in investment in
+
+0
+00:04:37,503 --> 00:04:38,015
+Income
+
+0
+00:04:38,271 --> 00:04:40,575
+Increased by 84.9%
+
+0
+00:04:41,087 --> 00:04:42,111
+Virginia beach wouldn't it
+
+0
+00:04:42,367 --> 00:04:42,879
+58
+
+0
+00:04:43,391 --> 00:04:43,903
+Billion
+
+0
+00:04:44,415 --> 00:04:46,207
+To jimmy beat 39 million
+
+0
+00:04:46,719 --> 00:04:47,487
+Andy cohen
+
+0
+00:04:47,743 --> 00:04:49,791
+I want to say that that mainly due to
+
+0
+00:04:50,047 --> 00:04:52,351
+To foreign exchange losses but
+
+0
+00:04:52,607 --> 00:04:54,143
+Wooden 2014
+
+0
+00:04:54,399 --> 00:04:55,167
+Alibaba
+
+0
+00:04:55,423 --> 00:04:56,191
+Radically
+
+0
+00:04:56,703 --> 00:04:57,215
+Changed
+
+0
+00:04:57,983 --> 00:04:58,495
+Translation expose
+
+0
+00:04:58,751 --> 00:04:59,263
+Bossier
+
+0
+00:04:59,519 --> 00:05:00,543
+And it did so
+
+0
+00:05:00,799 --> 00:05:01,823
+By booking
+
+0
+00:05:02,079 --> 00:05:03,103
+New u.s. debt
+
+0
+00:05:03,359 --> 00:05:04,895
+Get me to us investments
+
+0
+00:05:05,663 --> 00:05:07,967
+Of 358 million
+
+0
+00:05:08,223 --> 00:05:09,247
+U.s. dollars
+
+0
+00:05:10,015 --> 00:05:11,807
+Handbook to you at u.s. debt
+
+0
+00:05:12,319 --> 00:05:13,855
+Of 5 billion
+
+0
+00:05:14,111 --> 00:05:14,879
+U.s. dollars
+
+0
+00:05:15,647 --> 00:05:19,231
+I give it a net foreign exchange exposure on balance sheet
+
+0
+00:05:19,487 --> 00:05:20,767
+Of -4
+
+0
+00:05:21,023 --> 00:05:22,815
+4.643
+
+0
+00:05:23,327 --> 00:05:24,095
+That is to say
+
+0
+00:05:24,351 --> 00:05:24,863
+B
+
+0
+00:05:25,119 --> 00:05:25,631
+Us
+
+0
+00:05:26,399 --> 00:05:27,423
+Dollar investments
+
+0
+00:05:27,679 --> 00:05:29,471
+- the us dollar debt
+
+0
+00:05:30,239 --> 00:05:32,799
+Giving a net translation for an exchange expose
+
+0
+00:05:33,055 --> 00:05:33,567
+Kosher
+
+0
+00:05:33,823 --> 00:05:34,847
+Benjamin b
+
+0
+00:05:35,103 --> 00:05:37,919
+Translated to the balance sheet date of 6.2
+
+0
+00:05:38,687 --> 00:05:39,199
+One six
+
+0
+00:05:39,455 --> 00:05:39,967
+Ford
+
+0
+00:05:40,223 --> 00:05:41,759
+Jimmy b per us dollar
+
+0
+00:05:42,527 --> 00:05:43,039
+Of
+
+0
+00:05:43,551 --> 00:05:44,831
+28.8 bill
+
+0
+00:05:45,087 --> 00:05:46,367
+Alien agenda
+
+0
+00:05:47,135 --> 00:05:49,183
+That meant that if the us dollar tree
+
+0
+00:05:49,439 --> 00:05:50,975
+Appreciated by 3%
+
+0
+00:05:51,487 --> 00:05:53,023
+Alibaba wood lures
+
+0
+00:05:53,279 --> 00:05:54,303
+.03
+
+0
+00:05:54,559 --> 00:05:55,071
+X
+
+0
+00:05:55,583 --> 00:05:56,351
+28
+
+0
+00:05:56,607 --> 00:05:57,631
+862
+
+0
+00:05:57,887 --> 00:05:58,655
+Million
+
+0
+00:05:59,167 --> 00:05:59,679
+4
+
+0
+00:05:59,935 --> 00:06:01,471
+865 million
+
+0
+00:06:01,727 --> 00:06:02,239
+Ntb
+
+0
+00:06:02,751 --> 00:06:03,519
+Alibaba has
+
+0
+00:06:03,775 --> 00:06:04,799
+Has shorted the
+
+0
+00:06:05,055 --> 00:06:06,079
+U.s. dollar
+
+0
+00:06:06,335 --> 00:06:07,103
+On balance sheet
+
+0
+00:06:07,615 --> 00:06:08,639
+What that means
+
+0
+00:06:08,895 --> 00:06:10,687
+Is that if u.s. dollar goes up
+
+0
+00:06:10,943 --> 00:06:11,711
+Alibaba
+
+0
+00:06:11,967 --> 00:06:12,479
+Deuces
+
+0
+00:06:12,735 --> 00:06:14,527
+If the us dollar goes down
+
+0
+00:06:14,783 --> 00:06:15,807
+Alibaba games
+
+0
+00:06:16,575 --> 00:06:18,879
+Perhaps it's not just a straight bet
+
+0
+00:06:19,135 --> 00:06:21,183
+Maybe alibaba anticipated
+
+0
+00:06:21,439 --> 00:06:25,279
+Did in future it will be getting us dollar revenue coming in
+
+0
+00:06:25,791 --> 00:06:27,583
+In that case alibaba hair
+
+0
+00:06:27,839 --> 00:06:28,351
+Facebook
+
+0
+00:06:28,607 --> 00:06:29,887
+A balance sheet head
+
+0
+00:06:30,143 --> 00:06:32,447
+I want now to turn to transaction expose
+
+0
+00:06:32,703 --> 00:06:33,215
+Kosher
+
+0
+00:06:33,471 --> 00:06:34,751
+Stephen ross and his text
+
+0
+00:06:35,263 --> 00:06:37,055
+Search the transaction exposure is
+
+0
+00:06:37,311 --> 00:06:38,847
+His short-run financial risk
+
+0
+00:06:39,359 --> 00:06:42,687
+Rising for the need to buy or sale at unser and prices or rates in the knee
+
+0
+00:06:42,943 --> 00:06:43,711
+Near future
+
+0
+00:06:44,223 --> 00:06:45,247
+Note that ross did not even talk
+
+0
+00:06:45,503 --> 00:06:46,783
+Talk about foreign exchange
+
+0
+00:06:47,295 --> 00:06:48,319
+Kitty expense
+
+0
+00:06:49,087 --> 00:06:50,623
+Scope of transactions expose
+
+0
+00:06:50,879 --> 00:06:51,391
+Bossier
+
+0
+00:06:52,415 --> 00:06:53,183
+Price risk of
+
+0
+00:06:53,439 --> 00:06:54,463
+Of any asset
+
+0
+00:06:54,975 --> 00:06:55,999
+Particular of
+
+0
+00:06:56,255 --> 00:06:58,303
+Commodities like iron steel
+
+0
+00:06:58,559 --> 00:06:59,583
+Paper gold so
+
+0
+00:06:59,839 --> 00:07:02,911
+Silver or the products that are being produced by our company
+
+0
+00:07:03,423 --> 00:07:05,471
+Why didn't my discussion i'll be only be
+
+0
+00:07:05,727 --> 00:07:06,239
+Referring to
+
+0
+00:07:07,007 --> 00:07:07,775
+Foreign exchange
+
+0
+00:07:08,031 --> 00:07:08,543
+Transaction 6
+
+0
+00:07:09,567 --> 00:07:10,591
+The word hedging
+
+0
+00:07:10,847 --> 00:07:11,871
+Comes from
+
+0
+00:07:12,127 --> 00:07:13,663
+A protective barrier made of
+
+0
+00:07:14,175 --> 00:07:15,711
+Wood or bricks or plants
+
+0
+00:07:16,223 --> 00:07:16,735
+Prevent in
+
+0
+00:07:16,991 --> 00:07:18,015
+Judgement in a property
+
+0
+00:07:18,783 --> 00:07:21,087
+Here's a picture of a hand around the house
+
+0
+00:07:21,599 --> 00:07:25,183
+Since the 17th century so for at least the last 300 years
+
+0
+00:07:25,695 --> 00:07:27,487
+Pictures also taken on a financial meeting
+
+0
+00:07:27,999 --> 00:07:29,279
+After testing an adjustment for
+
+0
+00:07:30,559 --> 00:07:33,119
+The head not change the underlying
+
+0
+00:07:33,375 --> 00:07:34,911
+Transaction that presents the risk
+
+0
+00:07:35,679 --> 00:07:38,751
+The hedgehog ebooks additional cash flows
+
+0
+00:07:39,007 --> 00:07:40,031
+That was offset to
+
+0
+00:07:40,287 --> 00:07:43,103
+The cash flows of the underlying risky transaction
+
+0
+00:07:43,615 --> 00:07:45,407
+Betty hedges involved river doves
+
+0
+00:07:45,663 --> 00:07:47,711
+Such as forwards swaps and options
+
+0
+00:07:48,479 --> 00:07:50,015
+The hedges can also be
+
+0
+00:07:50,271 --> 00:07:51,295
+Balance sheet hedges
+
+0
+00:07:51,807 --> 00:07:53,599
+Which is the one that might exist
+
+0
+00:07:53,855 --> 00:07:54,879
+For alibaba bk
+
+0
+00:07:55,135 --> 00:07:57,439
+Mini hedges used to riverton
+
+0
+00:07:57,695 --> 00:07:59,231
+And because these derivatives
+
+0
+00:07:59,487 --> 00:08:01,535
+Trade in highly liquid markets
+
+0
+00:08:01,791 --> 00:08:03,839
+Their costs at by their cost i mean
+
+0
+00:08:04,095 --> 00:08:04,607
+Half of the bed
+
+0
+00:08:04,863 --> 00:08:05,631
+Did have spreads of this
+
+0
+00:08:06,143 --> 00:08:07,167
+The bid-ask spread
+
+0
+00:08:07,423 --> 00:08:10,239
+Around the expected value of that derivative
+
+0
+00:08:10,751 --> 00:08:11,775
+Typically the cost
+
+0
+00:08:12,031 --> 00:08:13,055
+Of distributive
+
+0
+00:08:13,311 --> 00:08:14,335
+Cantaloupe
+
+0
+00:08:14,847 --> 00:08:15,871
+Show heading
+
+0
+00:08:16,127 --> 00:08:18,687
+Can reduce the volatility of cash flows
+
+0
+00:08:18,943 --> 00:08:20,479
+For a relatively low cost
+
+0
+00:08:20,991 --> 00:08:22,271
+Natural hedge
+
+0
+00:08:22,527 --> 00:08:24,831
+Is an offsetting operating cash flow
+
+0
+00:08:25,087 --> 00:08:26,367
+Payable that's rising up
+
+0
+00:08:26,879 --> 00:08:27,647
+Conduct of business
+
+0
+00:08:28,671 --> 00:08:29,695
+Financial hedge
+
+0
+00:08:29,951 --> 00:08:32,767
+Refers to either an offsetting debt obligation such as a
+
+0
+00:08:33,023 --> 00:08:35,583
+Don't make me may have had with alibaba aur
+
+0
+00:08:35,839 --> 00:08:37,631
+For some type of financial derivative
+
+0
+00:08:37,887 --> 00:08:39,423
+Pictures of foreign exchange for
+
+0
+00:08:40,959 --> 00:08:44,031
+Corporate treasurers may wish to hatch because
+
+0
+00:08:45,055 --> 00:08:48,895
+Predictions that they have a foreign exchange rate changes are poor
+
+0
+00:08:49,407 --> 00:08:50,943
+You can often get it wrong
+
+0
+00:08:51,455 --> 00:08:51,967
+Hitching
+
+0
+00:08:52,223 --> 00:08:54,015
+Can increase the value of the firm
+
+0
+00:08:54,271 --> 00:08:55,039
+Simply be
+
+0
+00:08:55,295 --> 00:08:57,855
+Reducing the volatility of cash flows
+
+0
+00:08:58,111 --> 00:09:00,671
+That makes the firm less risky to investors
+
+0
+00:09:01,439 --> 00:09:02,719
+Can hitting with forwards and swap
+
+0
+00:09:03,487 --> 00:09:05,791
+Kent to be as i said relatively cheap
+
+0
+00:09:06,303 --> 00:09:09,119
+The corporate treasurers can also wish to speculate
+
+0
+00:09:09,631 --> 00:09:11,167
+They may wish to speculate
+
+0
+00:09:11,935 --> 00:09:13,983
+They're good at predicting the future
+
+0
+00:09:14,239 --> 00:09:16,031
+And if the corporate treasurer
+
+0
+00:09:17,055 --> 00:09:20,127
+Nearest living or is not too risk-averse
+
+0
+00:09:20,639 --> 00:09:22,687
+Corporate treasurers want to add value
+
+0
+00:09:23,199 --> 00:09:24,223
+Most company strength is not
+
+0
+00:09:24,479 --> 00:09:25,247
+Hot finance
+
+0
+00:09:25,503 --> 00:09:29,343
+And they should not be encouraged play in the markets get their two companies have
+
+0
+00:09:29,599 --> 00:09:33,695
+Have corporate treasurers that do have expertise in financial markets
+
+0
+00:09:34,207 --> 00:09:37,279
+And in order to motivate the high-quality individuals then
+
+0
+00:09:37,535 --> 00:09:40,351
+Baby given discretion to take financial risks for
+
+0
+00:09:40,607 --> 00:09:41,887
+Foreign expected return
+
+0
+00:09:42,399 --> 00:09:48,287
+For example they may wish to take open positions on foreign exchange for coverage is expensive
+
+0
+00:09:48,543 --> 00:09:49,567
+And prefers red
+
+0
+00:09:49,823 --> 00:09:50,847
+Relative to forecasts
+
+0
+00:09:51,615 --> 00:09:55,455
+Or they may wish to make long-term bets on exchange rate movements
+
+0
+00:09:55,711 --> 00:09:58,015
+Based on macroeconomic analysis
+
+0
+00:09:58,271 --> 00:10:01,087
+Here is a simple example of hedging a transaction
+
+0
+00:10:01,599 --> 00:10:06,463
+The treasurer of a us-based multinational corporation in you expect that you're going to be cu
+
+0
+00:10:06,975 --> 00:10:07,743
+Japanese yen
+
+0
+00:10:08,255 --> 00:10:10,303
+10 billion in flow in one year
+
+0
+00:10:10,559 --> 00:10:13,887
+The contracted as a contractor japanese yen in flow
+
+0
+00:10:14,143 --> 00:10:16,191
+Your home currency is us dollars
+
+0
+00:10:16,447 --> 00:10:17,727
+You have no opinion on
+
+0
+00:10:17,983 --> 00:10:19,775
+On what the expected future spot will be
+
+0
+00:10:20,543 --> 00:10:23,103
+But the spot rate is .83
+
+0
+00:10:23,359 --> 00:10:26,431
+333 us dollars 400 japanese yen and
+
+0
+00:10:26,687 --> 00:10:27,711
+And the forward rate
+
+0
+00:10:27,967 --> 00:10:31,551
+East point 8706 us dollars
+
+0
+00:10:31,807 --> 00:10:32,831
+For japanese yen
+
+0
+00:10:33,599 --> 00:10:35,647
+If your direct quote on the japanese yen
+
+0
+00:10:36,415 --> 00:10:37,695
+10 lies the problem
+
+0
+00:10:37,951 --> 00:10:38,719
+Correctly
+
+0
+00:10:39,487 --> 00:10:40,767
+You should quantify the risk here
+
+0
+00:10:41,023 --> 00:10:42,303
+Here's the japanese yen
+
+0
+00:10:42,559 --> 00:10:43,839
+Are u.s. dollar pound
+
+0
+00:10:44,351 --> 00:10:45,631
+From 2010
+
+0
+00:10:46,655 --> 00:10:48,191
+2 - 2015
+
+0
+00:10:48,703 --> 00:10:49,983
+And you can see that it is
+
+0
+00:10:50,495 --> 00:10:51,007
+Activated quiet
+
+0
+00:10:51,263 --> 00:10:55,103
+Michael are going down to almost 75 yen per us dollar
+
+0
+00:10:55,615 --> 00:10:56,127
+Up to
+
+0
+00:10:56,383 --> 00:10:57,919
+225 yen are you
+
+0
+00:10:58,175 --> 00:10:58,943
+U.s. dollar
+
+0
+00:10:59,199 --> 00:11:00,991
+Show clearly there is risk with industry
+
+0
+00:11:01,247 --> 00:11:03,295
+Transaction how do we measure the risk
+
+0
+00:11:03,551 --> 00:11:06,623
+We can use simple statistical techniques to do so
+
+0
+00:11:07,135 --> 00:11:09,951
+Calculate the standard deviation of returns
+
+0
+00:11:10,207 --> 00:11:11,231
+How the exchange rate
+
+0
+00:11:11,999 --> 00:11:13,535
+Again here is the
+
+0
+00:11:14,303 --> 00:11:16,351
+How to japanese yen per us dollar from
+
+0
+00:11:16,607 --> 00:11:17,631
+2010 -
+
+0
+00:11:17,887 --> 00:11:18,655
+The
+
+0
+00:11:20,191 --> 00:11:20,959
+Here is where
+
+0
+00:11:21,215 --> 00:11:22,751
+Where that path came from
+
+0
+00:11:23,007 --> 00:11:24,799
+This is the direct quote
+
+0
+00:11:25,311 --> 00:11:26,847
+From the japanese perspective
+
+0
+00:11:27,103 --> 00:11:28,895
+Find the price of us dollars
+
+0
+00:11:29,151 --> 00:11:30,687
+And these are the dates
+
+0
+00:11:30,943 --> 00:11:32,223
+Starting from the
+
+0
+00:11:32,479 --> 00:11:34,783
+10th of september 2015
+
+0
+00:11:35,039 --> 00:11:36,063
+And working back
+
+0
+00:11:36,319 --> 00:11:36,831
+2
+
+0
+00:11:37,087 --> 00:11:38,367
+A 2000
+
+0
+00:11:40,159 --> 00:11:41,439
+Here are the calculations app
+
+0
+00:11:41,695 --> 00:11:44,767
+The top me have the daily standard deviation
+
+0
+00:11:45,535 --> 00:11:46,303
+Which is simply the
+
+0
+00:11:46,559 --> 00:11:49,119
+Sample standard deviation of this vector
+
+0
+00:11:49,631 --> 00:11:51,423
+And here is so that is
+
+0
+00:11:51,935 --> 00:11:54,239
+.39% per day
+
+0
+00:11:54,495 --> 00:11:57,311
+Adhere is the annual standard deviation
+
+0
+00:11:57,567 --> 00:12:00,127
+We just take the daily standard deviation
+
+0
+00:12:00,383 --> 00:12:00,895
+And
+
+0
+00:12:01,407 --> 00:12:02,943
+X 2
+
+0
+00:12:03,199 --> 00:12:04,223
+250 that's enough
+
+0
+00:12:04,479 --> 00:12:06,271
+Number of trading days in the year
+
+0
+00:12:06,783 --> 00:12:07,295
+The power
+
+0
+00:12:07,551 --> 00:12:08,319
+1/2
+
+0
+00:12:08,575 --> 00:12:09,855
+Note that over the period
+
+0
+00:12:10,111 --> 00:12:10,879
+Ivy
+
+0
+00:12:11,135 --> 00:12:12,415
+Cnn appreciated
+
+0
+00:12:13,695 --> 00:12:16,255
+9.53% per year
+
+0
+00:12:16,767 --> 00:12:17,791
+Sew weave
+
+0
+00:12:18,047 --> 00:12:19,071
+How to find the risk
+
+0
+00:12:19,583 --> 00:12:23,167
+Hi by saying that the i'm going to assume that there's no excuse
+
+0
+00:12:24,703 --> 00:12:27,007
+That's what the corporate treasurer believes
+
+0
+00:12:27,263 --> 00:12:29,055
+And all simply plug the
+
+0
+00:12:29,311 --> 00:12:30,335
+Standard deviation
+
+0
+00:12:30,591 --> 00:12:32,639
+Is the annual standard deviation
+
+0
+00:12:32,895 --> 00:12:37,503
+Into a normal distribution x 1.65 standard deviations
+
+0
+00:12:38,015 --> 00:12:38,783
+And that gives this
+
+0
+00:12:39,039 --> 00:12:39,807
+10%
+
+0
+00:12:40,319 --> 00:12:41,087
+Best to say that
+
+0
+00:12:41,343 --> 00:12:43,135
+Have to say is 95%
+
+0
+00:12:43,391 --> 00:12:44,159
+Probability
+
+0
+00:12:44,671 --> 00:12:46,719
+That we will not lose more
+
+0
+00:12:46,975 --> 00:12:53,119
+Then 10%. 10% of the principal amount is not trivial by booking the forward we would sell
+
+0
+00:12:53,375 --> 00:12:54,399
+Japanese yen
+
+0
+00:12:54,655 --> 00:12:58,239
+10 billion forward in one year with liver the japanese yen 10
+
+0
+00:12:59,007 --> 00:12:59,775
+An except
+
+0
+00:13:00,287 --> 00:13:01,055
+Us dollars
+
+0
+00:13:01,311 --> 00:13:03,103
+87.06 million
+
+0
+00:13:03,359 --> 00:13:05,407
+The advantages of the forward hedge
+
+0
+00:13:05,663 --> 00:13:06,943
+Is it tuesday cheap intern
+
+0
+00:13:07,199 --> 00:13:11,039
+The transaction costs and the forward pricing and to reflect
+
+0
+00:13:12,063 --> 00:13:12,575
+Forecast
+
+0
+00:13:12,831 --> 00:13:15,135
+This is the conclusion from the last lecture
+
+0
+00:13:15,391 --> 00:13:19,487
+Did the forward price is an unbiased predictor of the future spot clean
+
+0
+00:13:19,743 --> 00:13:20,255
+Clearly
+
+0
+00:13:20,511 --> 00:13:21,791
+If the forward trades at
+
+0
+00:13:22,047 --> 00:13:22,815
+At a premium
+
+0
+00:13:23,327 --> 00:13:26,143
+But we expect no change in the future spot it
+
+0
+00:13:26,399 --> 00:13:27,935
+It much better to hatch
+
+0
+00:13:28,191 --> 00:13:28,959
+In this case
+
+0
+00:13:29,215 --> 00:13:29,983
+Forward
+
+0
+00:13:30,495 --> 00:13:31,775
+What's trading at a premium
+
+0
+00:13:32,287 --> 00:13:34,079
+Let it say we received
+
+0
+00:13:34,335 --> 00:13:35,615
+Higher valuation for the
+
+0
+00:13:35,871 --> 00:13:37,151
+The japanese yen by booking a
+
+0
+00:13:37,407 --> 00:13:37,919
+Forward
+
+0
+00:13:38,431 --> 00:13:39,967
+Then the spot dessert
+
+0
+00:13:40,223 --> 00:13:42,271
+Us dollars per japanese yen
+
+0
+00:13:42,783 --> 00:13:44,063
+We believe the current spot but the
+
+0
+00:13:44,319 --> 00:13:45,087
+The best estimate
+
+0
+00:13:45,599 --> 00:13:51,743
+Future spot is much better they had them to remain open if the forward is an unbiased predictor of the spot and transit
+
+0
+00:13:51,999 --> 00:13:53,279
+Directions are not very costly
+
+0
+00:13:53,791 --> 00:13:55,839
+And we're risk-averse we should have
+
+0
+00:13:56,351 --> 00:13:56,863
+Remember
+
+0
+00:13:57,119 --> 00:13:58,911
+Need a 5% probability
+
+0
+00:13:59,167 --> 00:14:00,191
+Honest transaction
+
+0
+00:14:00,447 --> 00:14:01,983
+That we would lose more than
+
+0
+00:14:02,239 --> 00:14:03,263
+10 100th
+
+0
+00:14:03,775 --> 00:14:06,079
+Billion yen worth of us dollars
+
+0
+00:14:06,335 --> 00:14:08,127
+What is the forward is at a discount
+
+0
+00:14:08,383 --> 00:14:10,175
+And you disagree with the forward
+
+0
+00:14:10,687 --> 00:14:11,199
+Forecast
+
+0
+00:14:11,711 --> 00:14:12,735
+Then you should consider
+
+0
+00:14:13,247 --> 00:14:14,783
+In detail the volatility
+
+0
+00:14:15,295 --> 00:14:16,063
+The forecast
+
+0
+00:14:16,831 --> 00:14:17,855
+York risk aversion
+
+0
+00:14:18,111 --> 00:14:19,135
+In conclusion
+
+0
+00:14:19,391 --> 00:14:20,415
+Foreign exchange
+
+0
+00:14:20,671 --> 00:14:21,951
+Movements can cause
+
+0
+00:14:22,207 --> 00:14:22,975
+Considerable
+
+0
+00:14:23,231 --> 00:14:25,279
+Changes to accounting statements
+
+0
+00:14:26,303 --> 00:14:27,071
+Cash flows
+
+0
+00:14:27,839 --> 00:14:29,631
+The risks should be understood
+
+0
+00:14:30,143 --> 00:14:31,423
+And the risks should be managed

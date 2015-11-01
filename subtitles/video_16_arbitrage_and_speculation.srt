@@ -1,0 +1,2075 @@
+0
+00:00:00,256 --> 00:00:05,632
+Dad like to say a few words about arbitration speculation building on electro that i gave earlier
+
+0
+00:00:05,888 --> 00:00:06,400
+On my
+
+0
+00:00:06,656 --> 00:00:07,680
+Market efficiency
+
+0
+00:00:07,936 --> 00:00:13,312
+And using as an example for an exchange transactions that talked about in the last lecture
+
+0
+00:00:13,824 --> 00:00:16,384
+Search for getting are term straight arbitrage
+
+0
+00:00:16,640 --> 00:00:22,272
+Is the simultaneous purchase and sale of securities with identical cash flows to yield the risks pro
+
+0
+00:00:23,040 --> 00:00:26,880
+One of these securities may be so called synthetic security
+
+0
+00:00:27,136 --> 00:00:28,160
+Made up of more
+
+0
+00:00:28,416 --> 00:00:33,536
+More than one underlying security and the second typically and underlying security
+
+0
+00:00:33,792 --> 00:00:34,560
+Speculation
+
+0
+00:00:34,816 --> 00:00:36,352
+Is the taking of risk
+
+0
+00:00:36,608 --> 00:00:41,472
+In order to earn an expected profit the law of one price is an economic concept
+
+0
+00:00:41,984 --> 00:00:43,776
+What is it to securities
+
+0
+00:00:44,032 --> 00:00:47,104
+For portfolio security with the same cash flows should
+
+0
+00:00:47,360 --> 00:00:48,384
+Should be priced the same
+
+0
+00:00:48,896 --> 00:00:51,968
+If it can be purchased and sold by the same agency
+
+0
+00:00:52,224 --> 00:00:55,040
+City arbitrage transaction is a very simple one
+
+0
+00:00:55,296 --> 00:01:00,160
+You buy the cheap security issue or borrowing sell the expensive security
+
+0
+00:01:00,416 --> 00:01:01,952
+How do you enjoy the difference
+
+0
+00:01:02,208 --> 00:01:06,816
+Because arbitrage is so incredibly profitable there are many traitors that
+
+0
+00:01:07,072 --> 00:01:11,168
+Devote their entire life to taking advantage of them as soon as they appear
+
+0
+00:01:11,680 --> 00:01:17,824
+Because of that activity arbitrage opportunities are rare and fleeting the search for arbitrage
+
+0
+00:01:18,080 --> 00:01:20,640
+Imposes relative price efficiency but
+
+0
+00:01:20,896 --> 00:01:26,272
+Tween assets considered an example of arbitrage this is the relationship
+
+0
+00:01:26,528 --> 00:01:28,576
+Call covered interest rate parity
+
+0
+00:01:28,832 --> 00:01:33,184
+Covered interest rate parity shows the arbitration post relationship between the
+
+0
+00:01:33,440 --> 00:01:34,720
+Current exchange rate
+
+0
+00:01:35,232 --> 00:01:40,352
+Forward-rate which is the price of foreign exchange for delivery in the future but cold today
+
+0
+00:01:40,608 --> 00:01:43,936
+Heavy interest rates prevailing in the domestic and foreign money markets
+
+0
+00:01:44,192 --> 00:01:45,216
+Forward-rate
+
+0
+00:01:45,472 --> 00:01:47,264
+Is equal to the spot rate times
+
+0
+00:01:47,520 --> 00:01:49,312
+Oneplus the domestic interest rate
+
+0
+00:01:49,568 --> 00:01:51,616
+8 ÷ 1 +4
+
+0
+00:01:51,872 --> 00:01:52,896
+For an interest rate
+
+0
+00:01:53,152 --> 00:01:54,688
+1 plus the interest rate can be
+
+0
+00:01:55,200 --> 00:01:57,504
+I thought of as the return of the asset
+
+0
+00:01:57,760 --> 00:02:00,832
+And here we have the relationship based on
+
+0
+00:02:01,344 --> 00:02:03,136
+The direct quote if the
+
+0
+00:02:03,392 --> 00:02:05,696
+Forward-rate is greater than the spot rate
+
+0
+00:02:05,952 --> 00:02:06,976
+X theme
+
+0
+00:02:07,232 --> 00:02:08,256
+Rate of return
+
+0
+00:02:08,768 --> 00:02:12,352
+The best currency divided the rate of return in the foreign currency
+
+0
+00:02:12,608 --> 00:02:13,888
+Alice is your lucky day that
+
+0
+00:02:14,144 --> 00:02:17,216
+Let's take an american example from the hong kong market
+
+0
+00:02:17,472 --> 00:02:21,056
+Hierba quoting the direct quote from the hong kong point of view on
+
+0
+00:02:21,312 --> 00:02:24,384
+On us dollars for this is hong kong dollars per us dollar
+
+0
+00:02:25,152 --> 00:02:27,200
+Let's see the spot is 7.81
+
+0
+00:02:27,456 --> 00:02:31,808
+Dunkin donuts us dollar the forward that it say the price for us dollars
+
+0
+00:02:32,064 --> 00:02:33,600
+Expressed in hong kong dollars
+
+0
+00:02:33,856 --> 00:02:35,648
+Deliverable in one year
+
+0
+00:02:35,904 --> 00:02:36,416
+Yes
+
+0
+00:02:36,672 --> 00:02:37,696
+7.9
+
+0
+00:02:38,208 --> 00:02:40,000
+Hong kong dollar to u.s. dollar
+
+0
+00:02:41,536 --> 00:02:44,608
+Interest rate in hong kong dollars is 3% per annum
+
+0
+00:02:44,864 --> 00:02:49,728
+Heavy interest rate in the us is 3.1% per annum if you do the numbers
+
+0
+00:02:49,984 --> 00:02:51,776
+Forward us dollars
+
+0
+00:02:52,288 --> 00:02:53,056
+Mark spencer
+
+0
+00:02:53,312 --> 00:02:55,104
+Forward price of us dollars
+
+0
+00:02:55,360 --> 00:02:56,128
+Are expensive
+
+0
+00:02:56,640 --> 00:02:58,688
+Relative to the synthetic forward
+
+0
+00:02:58,944 --> 00:03:00,480
+What are synthetic forward
+
+0
+00:03:00,736 --> 00:03:02,272
+Traders have trading limits to the
+
+0
+00:03:02,528 --> 00:03:04,576
+They're only allowed by their can
+
+0
+00:03:04,832 --> 00:03:07,136
+Appliance systems internal compliance
+
+0
+00:03:07,392 --> 00:03:08,928
+2000 amount of money
+
+0
+00:03:09,440 --> 00:03:10,976
+Let's say the trading limit for the
+
+0
+00:03:11,232 --> 00:03:13,024
+This traitor is 100 million on
+
+0
+00:03:13,280 --> 00:03:14,048
+Icon dollars
+
+0
+00:03:14,304 --> 00:03:15,840
+Bumper selling the
+
+0
+00:03:16,096 --> 00:03:16,864
+Expensive
+
+0
+00:03:17,120 --> 00:03:17,632
+Forward with
+
+0
+00:03:17,888 --> 00:03:20,192
+Which is selling the us dollar forward
+
+0
+00:03:20,448 --> 00:03:21,216
+We can
+
+0
+00:03:21,472 --> 00:03:22,752
+Use a maximum
+
+0
+00:03:23,264 --> 00:03:24,800
+Of 100 million home
+
+0
+00:03:25,056 --> 00:03:26,848
+Hong kong dollars in the contract
+
+0
+00:03:27,872 --> 00:03:30,176
+Good on the contract in one year
+
+0
+00:03:30,432 --> 00:03:32,992
+He will be receiving hong kong dollars because
+
+0
+00:03:33,248 --> 00:03:37,088
+Cash we are selling us dollars you need to contract
+
+0
+00:03:37,600 --> 00:03:38,368
+Search that
+
+0
+00:03:38,624 --> 00:03:40,416
+Barbie seat of hong kong dollars
+
+0
+00:03:40,672 --> 00:03:41,696
+The offset
+
+0
+00:03:41,952 --> 00:03:45,280
+Can a debt obligation with taking in hong kong dollars
+
+0
+00:03:45,536 --> 00:03:47,840
+We borrow an amount of hong kong dollars
+
+0
+00:03:48,096 --> 00:03:50,656
+That will have a principal plus interest
+
+0
+00:03:51,168 --> 00:03:52,448
+You in one year's time
+
+0
+00:03:52,704 --> 00:03:56,032
+Of 100 million hong kong. 100 million dollars
+
+0
+00:03:56,544 --> 00:03:57,312
+/
+
+0
+00:03:57,824 --> 00:03:59,360
+1.032
+
+0
+00:03:59,872 --> 00:04:01,408
+3% is the interest rate
+
+0
+00:04:02,432 --> 00:04:04,224
+Music we will receive today
+
+0
+00:04:04,736 --> 00:04:06,016
+97 million
+
+0
+00:04:06,528 --> 00:04:08,064
+87000
+
+0
+00:04:08,576 --> 00:04:09,856
+3 + 78
+
+0
+00:04:10,112 --> 00:04:11,648
+Dollars in $0.64 home
+
+0
+00:04:11,904 --> 00:04:12,416
+Hong kong
+
+0
+00:04:12,928 --> 00:04:14,464
+We are contracting
+
+0
+00:04:14,720 --> 00:04:15,232
+2
+
+0
+00:04:15,744 --> 00:04:16,512
+Cell
+
+0
+00:04:16,768 --> 00:04:18,047
+U.s. dollars forward
+
+0
+00:04:18,303 --> 00:04:18,815
+Kfc
+
+0
+00:04:19,327 --> 00:04:20,351
+Forward price hits
+
+0
+00:04:20,607 --> 00:04:22,655
+7.9 hong kong dollars
+
+0
+00:04:22,911 --> 00:04:23,935
+U.s. dollar
+
+0
+00:04:24,191 --> 00:04:27,263
+Is amount of us dollars equal 200 million
+
+0
+00:04:27,519 --> 00:04:28,287
+Divided by 7.
+
+0
+00:04:28,543 --> 00:04:29,055
+9
+
+0
+00:04:29,311 --> 00:04:30,335
+U.s. dollars
+
+0
+00:04:30,591 --> 00:04:31,359
+12 million
+
+0
+00:04:31,871 --> 00:04:33,151
+658000
+
+0
+00:04:33,407 --> 00:04:34,687
+227
+
+0
+00:04:35,199 --> 00:04:36,991
+And $0.85
+
+0
+00:04:37,503 --> 00:04:40,063
+So we need to invest an amount of money
+
+0
+00:04:40,319 --> 00:04:41,343
+Ge quote
+
+0
+00:04:41,599 --> 00:04:42,623
+12 million
+
+0
+00:04:42,879 --> 00:04:44,415
+658000
+
+0
+00:04:44,671 --> 00:04:47,487
+$227.85
+
+0
+00:04:48,255 --> 00:04:49,535
+We're investing that
+
+0
+00:04:49,791 --> 00:04:50,815
+U.s. dollars
+
+0
+00:04:51,071 --> 00:04:52,095
+At the rate of
+
+0
+00:04:52,607 --> 00:04:53,631
+3.1
+
+0
+00:04:54,143 --> 00:04:54,655
+Percent
+
+0
+00:04:55,167 --> 00:04:55,679
+Show me
+
+0
+00:04:55,935 --> 00:04:59,519
+I need to invest us dollars 12 million
+
+0
+00:04:59,775 --> 00:05:03,359
+658227 $0.85
+
+0
+00:05:03,615 --> 00:05:06,431
+Divided by 1.031
+
+0
+00:05:06,943 --> 00:05:08,735
+Navigate we invest today
+
+0
+00:05:09,247 --> 00:05:10,015
+12 million
+
+0
+00:05:10,783 --> 00:05:12,063
+277000
+
+0
+00:05:12,575 --> 00:05:14,367
+$621 + 58
+
+0
+00:05:14,623 --> 00:05:16,671
+Where do we get that money
+
+0
+00:05:16,927 --> 00:05:18,463
+We have to buy that money
+
+0
+00:05:18,719 --> 00:05:19,231
+Spot it
+
+0
+00:05:19,487 --> 00:05:20,767
+In order to make the investment
+
+0
+00:05:21,535 --> 00:05:23,327
+For buying at smart money
+
+0
+00:05:23,583 --> 00:05:24,863
+With hong kong dollars
+
+0
+00:05:25,119 --> 00:05:27,167
+How much hong kong dollars does it take
+
+0
+00:05:27,423 --> 00:05:28,191
+It takes
+
+0
+00:05:28,703 --> 00:05:29,215
+12 million
+
+0
+00:05:29,727 --> 00:05:31,007
+277000
+
+0
+00:05:31,263 --> 00:05:32,543
+Six hundred twenty one dollars and
+
+0
+00:05:32,799 --> 00:05:33,567
+$0.58
+
+0
+00:05:34,079 --> 00:05:35,871
+Times the current spot rate of
+
+0
+00:05:36,383 --> 00:05:36,895
+7
+
+0
+00:05:37,151 --> 00:05:37,663
+Dollars and
+
+0
+00:05:37,919 --> 00:05:39,455
+$0.80 hong kong dollars
+
+0
+00:05:39,967 --> 00:05:40,991
+Current u.s. dollar
+
+0
+00:05:41,503 --> 00:05:43,551
+4 hong kong dollars 95 million
+
+0
+00:05:44,063 --> 00:05:45,343
+755000
+
+0
+00:05:45,855 --> 00:05:46,879
+For the 48
+
+0
+00:05:47,135 --> 00:05:47,903
+M32
+
+0
+00:05:48,159 --> 00:05:48,927
+Sex
+
+0
+00:05:49,951 --> 00:05:53,279
+That is an amount of hong kong dollars we have to give up today
+
+0
+00:05:53,791 --> 00:05:56,607
+We've received hong kong dollars 97 million
+
+0
+00:05:57,119 --> 00:05:58,143
+87000
+
+0
+00:05:58,655 --> 00:06:01,727
+78 and 64 stamps from
+
+0
+00:06:02,239 --> 00:06:02,751
+The borrowing
+
+0
+00:06:03,263 --> 00:06:04,031
+That we have done
+
+0
+00:06:04,287 --> 00:06:05,567
+In order to repair
+
+0
+00:06:05,823 --> 00:06:07,615
+100 million hong kong dollars
+
+0
+00:06:07,871 --> 00:06:08,895
+In one year's time
+
+0
+00:06:09,663 --> 00:06:11,711
+That means we have a net profit
+
+0
+00:06:11,967 --> 00:06:14,271
+Of the difference between the amount received today
+
+0
+00:06:14,527 --> 00:06:15,807
+Animal to be give up today
+
+0
+00:06:16,063 --> 00:06:17,855
+A in order to buy our us dollars
+
+0
+00:06:18,367 --> 00:06:20,159
+That amount is hong kong dollars
+
+0
+00:06:20,671 --> 00:06:21,439
+1000003
+
+0
+00:06:21,695 --> 00:06:25,279
+$321,930.32
+
+0
+00:06:25,791 --> 00:06:26,303
+Free
+
+0
+00:06:26,815 --> 00:06:27,583
+Today
+
+0
+00:06:28,095 --> 00:06:28,863
+Risks
+
+0
+00:06:29,119 --> 00:06:29,887
+The clearly
+
+0
+00:06:30,143 --> 00:06:31,423
+Everyone in the world
+
+0
+00:06:31,935 --> 00:06:33,983
+Who is doing the same thing as we are doing
+
+0
+00:06:34,239 --> 00:06:35,519
+Who is not blind will
+
+0
+00:06:35,775 --> 00:06:38,079
+We'll see the forward rate on us dollars
+
+0
+00:06:38,591 --> 00:06:39,615
+Go to hong kong
+
+0
+00:06:39,871 --> 00:06:41,151
+It's overpriced
+
+0
+00:06:41,407 --> 00:06:43,199
+Relatives of the synthetic forward
+
+0
+00:06:43,455 --> 00:06:44,479
+The synthetic forward
+
+0
+00:06:44,735 --> 00:06:47,551
+How do you know if borrowing in hong kong dollars
+
+0
+00:06:48,063 --> 00:06:49,855
+And investing in us dollars
+
+0
+00:06:50,367 --> 00:06:52,159
+Can converting a spot rate
+
+0
+00:06:52,927 --> 00:06:54,719
+Do you have to work very fast
+
+0
+00:06:54,975 --> 00:06:57,023
+Because when you sell the forward
+
+0
+00:06:57,535 --> 00:06:58,047
+You are he
+
+0
+00:06:58,303 --> 00:07:02,399
+Hitting other people's bids to you drive down the price of the forward
+
+0
+00:07:02,655 --> 00:07:03,935
+When you buy the spot you
+
+0
+00:07:04,191 --> 00:07:06,495
+You are lifting other people's ask rates
+
+0
+00:07:06,751 --> 00:07:10,847
+So you lift the price of the spot when you borrow hong kong dollars
+
+0
+00:07:11,103 --> 00:07:13,919
+Can large volumes you tend to push up the
+
+0
+00:07:14,175 --> 00:07:15,967
+Interest rates of hong kong dollars
+
+0
+00:07:16,223 --> 00:07:20,831
+And when you invest in us dollars and large volumes you tend to press you
+
+0
+00:07:21,087 --> 00:07:23,135
+U.s. dollar market interest rates cu
+
+0
+00:07:23,391 --> 00:07:25,695
+Do you have to work fast because these
+
+0
+00:07:25,951 --> 00:07:26,975
+For transactions
+
+0
+00:07:27,231 --> 00:07:28,767
+What time to push the
+
+0
+00:07:29,023 --> 00:07:29,535
+Tv
+
+0
+00:07:29,791 --> 00:07:30,559
+Forward-rate in
+
+0
+00:07:30,815 --> 00:07:31,839
+Into equality with
+
+0
+00:07:32,095 --> 00:07:33,631
+What's a synthetic forward rate
+
+0
+00:07:33,887 --> 00:07:35,935
+And that's what we mean when we say
+
+0
+00:07:36,959 --> 00:07:38,751
+Covered interest rate parity
+
+0
+00:07:39,007 --> 00:07:41,055
+Is an arbitrage relationship
+
+0
+00:07:41,311 --> 00:07:42,335
+This equality
+
+0
+00:07:42,591 --> 00:07:47,455
+Is held together by the actions of traders around the world that are pushing
+
+0
+00:07:47,711 --> 00:07:48,735
+This relationship
+
+0
+00:07:48,991 --> 00:07:49,759
+Entry quality
+
+0
+00:07:50,271 --> 00:07:53,855
+I want to go with you some other foreign exchange rate parity
+
+0
+00:07:54,111 --> 00:07:56,159
+But the rest of the parodies the wii
+
+0
+00:07:56,415 --> 00:07:57,183
+Discuss
+
+0
+00:07:57,439 --> 00:07:59,999
+Arnot arbitrage relationships
+
+0
+00:08:01,279 --> 00:08:02,815
+Before we go on to
+
+0
+00:08:03,327 --> 00:08:05,631
+The other foreign exchange parities
+
+0
+00:08:05,887 --> 00:08:07,423
+I'd like to bring your attention to
+
+0
+00:08:07,679 --> 00:08:08,447
+To the
+
+0
+00:08:08,703 --> 00:08:09,983
+Format of the
+
+0
+00:08:10,239 --> 00:08:11,775
+Covered interest rate parity
+
+0
+00:08:12,031 --> 00:08:12,543
+Formula
+
+0
+00:08:12,799 --> 00:08:15,103
+We expressed it at the forward rate equal to the
+
+0
+00:08:15,359 --> 00:08:16,383
+Spot times
+
+0
+00:08:16,895 --> 00:08:18,175
+The relative
+
+0
+00:08:18,431 --> 00:08:20,991
+Returns in the domestic and the foreign mark
+
+0
+00:08:21,247 --> 00:08:21,759
+Markets
+
+0
+00:08:22,527 --> 00:08:25,343
+But going forward i shift the spot term
+
+0
+00:08:25,599 --> 00:08:28,415
+From the return side of the four of the formula
+
+0
+00:08:28,927 --> 00:08:29,439
+Tv
+
+0
+00:08:30,207 --> 00:08:31,999
+Foreign exchange side of the formula
+
+0
+00:08:32,255 --> 00:08:35,327
+This facilitates comparing coveted street parody with
+
+0
+00:08:35,583 --> 00:08:37,119
+Is uncovered in strip parody
+
+0
+00:08:37,631 --> 00:08:38,143
+Relative
+
+0
+00:08:38,399 --> 00:08:39,423
+Power parity
+
+0
+00:08:39,935 --> 00:08:41,215
+International fisher effect
+
+0
+00:08:41,471 --> 00:08:42,495
+Can the fisher effect
+
+0
+00:08:43,007 --> 00:08:44,543
+Uncovered interest rate parity
+
+0
+00:08:44,799 --> 00:08:49,663
+It's a relationship between the forward rate and the expected value of the future spot
+
+0
+00:08:50,175 --> 00:08:50,687
+It's
+
+0
+00:08:50,943 --> 00:08:51,711
+Affected
+
+0
+00:08:51,967 --> 00:08:52,991
+She speculation
+
+0
+00:08:53,503 --> 00:08:54,783
+How to arbitrage
+
+0
+00:08:55,039 --> 00:08:57,087
+Ford rate / the spot rate is equal to the
+
+0
+00:08:57,855 --> 00:08:59,391
+Heart rate / the spot rate
+
+0
+00:08:59,647 --> 00:09:00,671
+Or more simply the
+
+0
+00:09:00,927 --> 00:09:01,439
+Forward
+
+0
+00:09:01,695 --> 00:09:03,487
+Is equal to the expected future
+
+0
+00:09:03,743 --> 00:09:04,511
+Picture spot rate
+
+0
+00:09:05,023 --> 00:09:06,559
+Think of this profit opportunity
+
+0
+00:09:07,327 --> 00:09:09,119
+You are risk-neutral speculator
+
+0
+00:09:09,631 --> 00:09:12,191
+You're going to get hong kong dollars 100 million
+
+0
+00:09:12,703 --> 00:09:13,215
+You're certain
+
+0
+00:09:13,727 --> 00:09:14,495
+Hong kong government
+
+0
+00:09:15,007 --> 00:09:16,543
+Successfully defend the peg for
+
+0
+00:09:16,799 --> 00:09:17,823
+Produced year
+
+0
+00:09:18,591 --> 00:09:19,615
+Current spot rate is
+
+0
+00:09:19,871 --> 00:09:21,663
+7.8 hong kong dollars
+
+0
+00:09:21,919 --> 00:09:22,687
+Per us dollar
+
+0
+00:09:23,199 --> 00:09:23,967
+Forward-rate
+
+0
+00:09:24,479 --> 00:09:25,503
+Is hong kong dollars
+
+0
+00:09:25,759 --> 00:09:27,551
+7.9 per us dollar what
+
+0
+00:09:27,807 --> 00:09:29,599
+What would you as a speculator do
+
+0
+00:09:29,855 --> 00:09:31,903
+Sell the us dollar forward because
+
+0
+00:09:32,159 --> 00:09:32,671
+Cat status
+
+0
+00:09:33,183 --> 00:09:35,487
+Spencer relative to your expectations
+
+0
+00:09:35,743 --> 00:09:38,559
+Then you wait for one year and you hope you're right through
+
+0
+00:09:38,815 --> 00:09:41,375
+To the form contract at the end of the year
+
+0
+00:09:41,631 --> 00:09:42,655
+He would deliver
+
+0
+00:09:42,911 --> 00:09:43,679
+U.s. dollars
+
+0
+00:09:44,191 --> 00:09:44,959
+12 million
+
+0
+00:09:45,215 --> 00:09:46,751
+658000
+
+0
+00:09:47,263 --> 00:09:48,543
+227 +
+
+0
+00:09:48,799 --> 00:09:49,823
+$0.80
+
+0
+00:09:50,079 --> 00:09:51,103
+That's with certainty
+
+0
+00:09:51,615 --> 00:09:53,919
+Why because you contracted today
+
+0
+00:09:54,175 --> 00:09:56,223
+Deliver in one year's time
+
+0
+00:09:56,479 --> 00:09:58,015
+The us dollar equivalent
+
+0
+00:09:58,271 --> 00:09:59,551
+To the forward contract
+
+0
+00:09:59,807 --> 00:10:01,087
+I have a 100 million
+
+0
+00:10:02,623 --> 00:10:03,391
+At the maximum that you
+
+0
+00:10:04,927 --> 00:10:08,767
+Can you receive in one year the hong kong dollars 100 million dollars
+
+0
+00:10:09,023 --> 00:10:10,047
+Of course you have to
+
+0
+00:10:10,303 --> 00:10:11,839
+Get the u.s. dollars and
+
+0
+00:10:12,095 --> 00:10:17,983
+And so you do so with those hong kong dollars you buy in one year at the future spot rate in
+
+0
+00:10:18,239 --> 00:10:21,055
+Enough u.s. dollars to satisfy the forward contract
+
+0
+00:10:21,311 --> 00:10:22,335
+To your spending and
+
+0
+00:10:22,591 --> 00:10:24,639
+An expected 12 million
+
+0
+00:10:24,895 --> 00:10:25,407
+658
+
+0
+00:10:25,663 --> 00:10:26,175
+8000
+
+0
+00:10:26,431 --> 00:10:28,735
+$227.85
+
+0
+00:10:28,991 --> 00:10:30,015
+At the expected
+
+0
+00:10:30,527 --> 00:10:31,551
+7.8
+
+0
+00:10:31,807 --> 00:10:32,575
+Hong kong dollars be us
+
+0
+00:10:32,831 --> 00:10:34,111
+U.s. dollar spot rate
+
+0
+00:10:34,367 --> 00:10:34,879
+And that spin
+
+0
+00:10:35,903 --> 00:10:37,951
+Hong kong dollars 98 million
+
+0
+00:10:38,207 --> 00:10:42,303
+7 + 34001 + $77.23
+
+0
+00:10:42,815 --> 00:10:47,935
+That's less than 100 million hong kong dollars that you receive through the 4 with contract
+
+0
+00:10:48,191 --> 00:10:50,239
+If you would enjoy a hong kong dollars
+
+0
+00:10:50,751 --> 00:10:51,519
+1 million
+
+0
+00:10:51,775 --> 00:10:53,311
+255000
+
+0
+00:10:53,823 --> 00:10:56,383
+$822.77 profit
+
+0
+00:10:57,151 --> 00:10:58,175
+If you're right
+
+0
+00:10:58,687 --> 00:11:01,759
+The actions of which beatle speculators will tend to push the four
+
+0
+00:11:02,015 --> 00:11:02,527
+Forward-rate
+
+0
+00:11:03,039 --> 00:11:05,087
+Youtube equality or near equality
+
+0
+00:11:05,343 --> 00:11:07,391
+With the expected future spot rate
+
+0
+00:11:07,647 --> 00:11:09,183
+As the speculators so
+
+0
+00:11:09,439 --> 00:11:10,207
+Shelvey expensive suit
+
+0
+00:11:10,463 --> 00:11:10,975
+Security
+
+0
+00:11:11,231 --> 00:11:11,999
+And purchase the chi
+
+0
+00:11:12,255 --> 00:11:13,023
+Cheap security
+
+0
+00:11:13,535 --> 00:11:17,119
+The most foreign exchange traders are not with neutral
+
+0
+00:11:17,631 --> 00:11:20,959
+The closer positions on a daily basis and yet
+
+0
+00:11:21,215 --> 00:11:23,007
+Uncovered interest rate parity
+
+0
+00:11:23,263 --> 00:11:24,031
+Requires
+
+0
+00:11:24,287 --> 00:11:25,823
+Holding open positions
+
+0
+00:11:26,079 --> 00:11:26,847
+4 weeks
+
+0
+00:11:27,103 --> 00:11:27,615
+Mansour
+
+0
+00:11:27,871 --> 00:11:32,735
+Or even years the next parody relationship is purchasing power parity
+
+0
+00:11:33,247 --> 00:11:35,807
+Purchasing power parity is a long-term debt
+
+0
+00:11:36,063 --> 00:11:38,367
+Determinants of foreign exchange rates
+
+0
+00:11:38,623 --> 00:11:39,391
+Search that
+
+0
+00:11:39,647 --> 00:11:40,415
+The expected
+
+0
+00:11:40,671 --> 00:11:41,951
+Spot rate over the
+
+0
+00:11:42,975 --> 00:11:43,487
+Hot rate
+
+0
+00:11:43,999 --> 00:11:45,791
+Is equal to the ratio
+
+0
+00:11:46,303 --> 00:11:46,815
+Of
+
+0
+00:11:47,327 --> 00:11:48,351
+Home currency invoicing
+
+0
+00:11:48,607 --> 00:11:49,119
+Haitian
+
+0
+00:11:49,375 --> 00:11:50,399
+Two foreign currency
+
+0
+00:11:50,911 --> 00:11:51,423
+Haitian
+
+0
+00:11:51,935 --> 00:11:53,727
+Purchasing power parity
+
+0
+00:11:54,495 --> 00:11:55,007
+From the
+
+0
+00:11:55,263 --> 00:11:57,567
+The idea of commodity price parity
+
+0
+00:11:58,079 --> 00:11:59,103
+The exchange rate
+
+0
+00:11:59,359 --> 00:12:00,895
+Equalizers the difference of
+
+0
+00:12:01,151 --> 00:12:01,663
+A commodity price
+
+0
+00:12:01,919 --> 00:12:02,431
+Prices for
+
+0
+00:12:02,687 --> 00:12:03,455
+Tween countries
+
+0
+00:12:04,223 --> 00:12:04,735
+Show
+
+0
+00:12:05,503 --> 00:12:06,015
+Price
+
+0
+00:12:06,271 --> 00:12:07,039
+Evade
+
+0
+00:12:07,807 --> 00:12:09,087
+In the foreign currency
+
+0
+00:12:09,343 --> 00:12:10,623
+Should be equal to the
+
+0
+00:12:10,879 --> 00:12:13,695
+Price of the good in the domestic currency
+
+0
+00:12:14,207 --> 00:12:15,487
+/
+
+0
+00:12:16,511 --> 00:12:17,791
+Current spot rate
+
+0
+00:12:18,303 --> 00:12:20,095
+So this is the direct quote on
+
+0
+00:12:20,351 --> 00:12:21,631
+Honda foreign currency
+
+0
+00:12:22,143 --> 00:12:23,679
+What home currency / 4
+
+0
+00:12:23,935 --> 00:12:24,703
+Foreign currency
+
+0
+00:12:25,215 --> 00:12:26,495
+Or you can express this is the price
+
+0
+00:12:27,263 --> 00:12:28,031
+Foreign currency
+
+0
+00:12:28,287 --> 00:12:31,103
+X the spot rate the direct quote in the spot rate
+
+0
+00:12:31,359 --> 00:12:33,663
+Is equal to the price in the home currency
+
+0
+00:12:33,919 --> 00:12:37,247
+We can derive relative purchasing power parity
+
+0
+00:12:37,503 --> 00:12:38,271
+From commodity price
+
+0
+00:12:38,527 --> 00:12:39,039
+Price parity
+
+0
+00:12:39,295 --> 00:12:39,807
+The price of the four
+
+0
+00:12:40,063 --> 00:12:41,087
+Foreign currency
+
+0
+00:12:41,343 --> 00:12:42,623
+X the spot rate
+
+0
+00:12:42,879 --> 00:12:45,951
+Should be equal to the price of a good in the home currency
+
+0
+00:12:46,207 --> 00:12:46,975
+And the
+
+0
+00:12:47,231 --> 00:12:47,743
+Price
+
+0
+00:12:48,511 --> 00:12:50,815
+In foreign currency at some future time
+
+0
+00:12:51,071 --> 00:12:52,351
+Should be equal to the
+
+0
+00:12:52,863 --> 00:12:53,375
+Price
+
+0
+00:12:53,887 --> 00:12:54,655
+Foreign currency
+
+0
+00:12:55,167 --> 00:12:56,191
+Happy current time
+
+0
+00:12:56,703 --> 00:12:57,215
+X 2
+
+0
+00:12:57,727 --> 00:12:58,751
+Inflation rate
+
+0
+00:12:59,007 --> 00:13:00,031
+Plus one package deal
+
+0
+00:13:00,287 --> 00:13:01,567
+The inflation return
+
+0
+00:13:02,079 --> 00:13:02,591
+From the
+
+0
+00:13:03,103 --> 00:13:03,871
+Current period
+
+0
+00:13:04,127 --> 00:13:05,407
+Until the future.
+
+0
+00:13:06,687 --> 00:13:07,967
+I just got to do a little bit of
+
+0
+00:13:08,223 --> 00:13:08,991
+Manipulation here
+
+0
+00:13:09,759 --> 00:13:10,527
+The
+
+0
+00:13:11,039 --> 00:13:11,807
+Price
+
+0
+00:13:12,831 --> 00:13:13,599
+Time
+
+0
+00:13:14,367 --> 00:13:14,879
+Is tiffany
+
+0
+00:13:16,671 --> 00:13:17,183
+Spot
+
+0
+00:13:17,695 --> 00:13:18,207
+At time t
+
+0
+00:13:18,975 --> 00:13:19,743
+Temptu price
+
+0
+00:13:21,535 --> 00:13:22,047
+Thyme tea
+
+0
+00:13:23,071 --> 00:13:24,607
+Price in foreign currency times 0
+
+0
+00:13:25,375 --> 00:13:25,887
+Dick smith
+
+0
+00:13:27,935 --> 00:13:28,447
+People to the price
+
+0
+00:13:29,215 --> 00:13:29,983
+At home at home
+
+0
+00:13:31,519 --> 00:13:32,287
+X 0
+
+0
+00:13:33,055 --> 00:13:33,567
+Show
+
+0
+00:13:33,823 --> 00:13:35,871
+Conceit or equal i can
+
+0
+00:13:36,127 --> 00:13:37,151
+Justified
+
+0
+00:13:38,175 --> 00:13:39,711
+First expression
+
+0
+00:13:39,967 --> 00:13:41,247
+Find the second expression
+
+0
+00:13:42,271 --> 00:13:43,551
+Mount i can also substitute
+
+0
+00:13:44,575 --> 00:13:45,599
+I can substitute for the
+
+0
+00:13:45,855 --> 00:13:46,623
+The price
+
+0
+00:13:47,135 --> 00:13:47,647
+In
+
+0
+00:13:48,159 --> 00:13:48,927
+Foreign currency
+
+0
+00:13:49,183 --> 00:13:50,207
+Time for the price in
+
+0
+00:13:50,463 --> 00:13:51,231
+In-home currency
+
+0
+00:13:54,047 --> 00:13:55,839
+Foreign currency at time t
+
+0
+00:13:56,095 --> 00:13:56,863
+Is simply
+
+0
+00:13:57,119 --> 00:13:57,887
+Equal to the
+
+0
+00:13:58,399 --> 00:13:58,911
+Price
+
+0
+00:13:59,167 --> 00:14:00,191
+Foreign currency
+
+0
+00:14:00,447 --> 00:14:01,727
+At time zero
+
+0
+00:14:03,263 --> 00:14:04,287
+Oneplus t
+
+0
+00:14:04,799 --> 00:14:05,311
+Placing right
+
+0
+00:14:09,151 --> 00:14:10,175
+In-home currency
+
+0
+00:14:10,943 --> 00:14:11,967
+At time t
+
+0
+00:14:12,223 --> 00:14:12,991
+Is also
+
+0
+00:14:13,759 --> 00:14:14,783
+Emily equal to the
+
+0
+00:14:15,551 --> 00:14:16,063
+Price in
+
+0
+00:14:16,319 --> 00:14:18,111
+In-home current get time zero
+
+0
+00:14:18,367 --> 00:14:18,879
+Times dmv
+
+0
+00:14:19,135 --> 00:14:19,647
+Placing right
+
+0
+00:14:20,415 --> 00:14:21,439
+Take this expression
+
+0
+00:14:21,951 --> 00:14:23,231
+Can substitute in
+
+0
+00:14:26,047 --> 00:14:26,815
+This expression
+
+0
+00:14:27,327 --> 00:14:27,839
+And
+
+0
+00:14:28,095 --> 00:14:28,863
+Substitute in
+
+0
+00:14:30,143 --> 00:14:30,911
+Here so i can catch
+
+0
+00:14:31,679 --> 00:14:32,191
+This
+
+0
+00:14:32,447 --> 00:14:32,959
+What's this
+
+0
+00:14:33,471 --> 00:14:33,983
+Can cancel this
+
+0
+00:14:34,751 --> 00:14:35,519
+What's this
+
+0
+00:14:35,775 --> 00:14:36,287
+Bringing
+
+0
+00:14:36,543 --> 00:14:37,311
+Disturb
+
+0
+00:14:37,823 --> 00:14:38,335
+Around 2
+
+0
+00:14:39,103 --> 00:14:40,383
+Side of the equation
+
+0
+00:14:40,895 --> 00:14:41,407
+We're left with
+
+0
+00:14:41,663 --> 00:14:42,687
+The relationship
+
+0
+00:14:43,199 --> 00:14:43,711
+Bentley
+
+0
+00:14:44,223 --> 00:14:44,735
+Expected
+
+0
+00:14:44,991 --> 00:14:47,039
+Spot over the current spot rate
+
+0
+00:14:47,807 --> 00:14:48,575
+Equal to
+
+0
+00:14:49,087 --> 00:14:49,599
+The
+
+0
+00:14:50,111 --> 00:14:51,135
+Pollution rate in the
+
+0
+00:14:51,647 --> 00:14:52,415
+Home currency
+
+0
+00:14:52,671 --> 00:14:53,695
+/ the inn
+
+0
+00:14:53,951 --> 00:14:54,975
+Inflation rate in
+
+0
+00:14:55,231 --> 00:14:55,999
+In the foreign currency
+
+0
+00:14:56,511 --> 00:14:57,535
+And this is relative pressure
+
+0
+00:14:57,791 --> 00:14:58,559
+Power parity
+
+0
+00:14:58,815 --> 00:15:00,607
+Relative purchasing power parity you can
+
+0
+00:15:00,863 --> 00:15:01,375
+Can be written
+
+0
+00:15:01,887 --> 00:15:06,495
+Fat in a slightly different way we get the expected depreciation of the foreign currency
+
+0
+00:15:07,519 --> 00:15:08,799
+Roughly equal to the
+
+0
+00:15:09,567 --> 00:15:11,103
+Home current inflation rate
+
+0
+00:15:11,359 --> 00:15:11,871
+- - 4
+
+0
+00:15:12,127 --> 00:15:12,639
+Foreign currency in
+
+0
+00:15:13,151 --> 00:15:13,663
+Section 8
+
+0
+00:15:14,175 --> 00:15:15,455
+Purchasing power parity
+
+0
+00:15:15,711 --> 00:15:21,855
+Is useful but it's not useful in the arbitrage sense and it's not even very useful for
+
+0
+00:15:22,111 --> 00:15:23,135
+Speculation
+
+0
+00:15:23,391 --> 00:15:25,951
+Except on a very small set of goods
+
+0
+00:15:26,719 --> 00:15:28,255
+Freddy kevin good app sleeper
+
+0
+00:15:28,511 --> 00:15:29,535
+Purchasing power parity
+
+0
+00:15:30,047 --> 00:15:30,815
+Can't hold it
+
+0
+00:15:31,071 --> 00:15:31,583
+In the absence of
+
+0
+00:15:31,839 --> 00:15:33,119
+The barriers to trade him
+
+0
+00:15:33,375 --> 00:15:36,447
+It works very well if there's cost of sand rapid shipping
+
+0
+00:15:36,959 --> 00:15:39,007
+Example for financial securities
+
+0
+00:15:39,263 --> 00:15:40,799
+Where ownership of a financial security
+
+0
+00:15:41,823 --> 00:15:45,407
+Can be transferred instantaneously around the world at little cost
+
+0
+00:15:45,919 --> 00:15:47,711
+It will work very roughly
+
+0
+00:15:47,967 --> 00:15:50,527
+4 easily shipped commodities like oil
+
+0
+00:15:51,551 --> 00:15:53,087
+Green paper and wood
+
+0
+00:15:53,599 --> 00:15:55,391
+Wilkerson park parody
+
+0
+00:15:55,903 --> 00:15:56,671
+Only
+
+0
+00:15:57,183 --> 00:16:00,767
+Very approximately in the medium-term say 3 to 10 years
+
+0
+00:16:01,023 --> 00:16:04,863
+That means it's useful in medium-term exchange rate prediction
+
+0
+00:16:05,375 --> 00:16:07,935
+Is the deviations from purchasing power parity
+
+0
+00:16:08,191 --> 00:16:10,239
+Opb first over the medium-term
+
+0
+00:16:10,495 --> 00:16:13,311
+We seen a number of parity relationships
+
+0
+00:16:13,823 --> 00:16:15,359
+Covered interest rate parity
+
+0
+00:16:15,615 --> 00:16:17,407
+Which works through arbitrage
+
+0
+00:16:17,663 --> 00:16:23,039
+Uncovered in straight parody which works to speculation purchasing power parity which
+
+0
+00:16:23,295 --> 00:16:24,831
+Which works through long-term tree
+
+0
+00:16:25,087 --> 00:16:25,855
+Create pressure
+
+0
+00:16:26,367 --> 00:16:27,903
+Interpretation of ship
+
+0
+00:16:28,159 --> 00:16:28,927
+Is a
+
+0
+00:16:29,183 --> 00:16:29,951
+An investment relay
+
+0
+00:16:30,207 --> 00:16:33,023
+Nation ship the interest rate or the return on interest
+
+0
+00:16:33,535 --> 00:16:35,839
+Have two components an inflationary component
+
+0
+00:16:36,351 --> 00:16:36,863
+Dad
+
+0
+00:16:37,119 --> 00:16:38,911
+Real interest rate component the
+
+0
+00:16:39,167 --> 00:16:40,447
+The international fisher
+
+0
+00:16:40,703 --> 00:16:41,215
+Affect
+
+0
+00:16:41,471 --> 00:16:43,519
+Search the real rate interest
+
+0
+00:16:43,775 --> 00:16:44,287
+Should be equal
+
+0
+00:16:44,543 --> 00:16:45,823
+Weighted worldwide
+
+0
+00:16:46,079 --> 00:16:46,591
+As
+
+0
+00:16:46,847 --> 00:16:47,871
+Capital markets become
+
+0
+00:16:48,127 --> 00:16:49,151
+A more integrated
+
+0
+00:16:49,407 --> 00:16:51,455
+You can break down by definition
+
+0
+00:16:51,967 --> 00:16:53,759
+The interest rate of the home currency
+
+0
+00:16:54,015 --> 00:16:55,039
+And the foreign currency
+
+0
+00:16:55,551 --> 00:16:57,343
+Into two parts in a place that compose
+
+0
+00:16:58,367 --> 00:16:59,391
+And a real component
+
+0
+00:17:00,671 --> 00:17:02,719
+International capital markets are integrated
+
+0
+00:17:03,231 --> 00:17:04,767
+These two real components
+
+0
+00:17:05,279 --> 00:17:06,303
+Become equal
+
+0
+00:17:06,815 --> 00:17:08,863
+Cancel that cancel each other out
+
+0
+00:17:09,119 --> 00:17:10,655
+And you can see with god
+
+0
+00:17:11,167 --> 00:17:11,679
+Complete
+
+0
+00:17:11,935 --> 00:17:13,215
+Pentagon of parodies
+
+0
+00:17:13,727 --> 00:17:16,799
+Arbitrage or the law of one price the very powerful
+
+0
+00:17:17,311 --> 00:17:20,383
+Horse for holding derivative financial securities inc
+
+0
+00:17:20,639 --> 00:17:21,407
+Into alignment with
+
+0
+00:17:21,663 --> 00:17:22,687
+Underlying securities
+
+0
+00:17:24,223 --> 00:17:26,271
+Speculation is a far less powerful for
+
+0
+00:17:26,527 --> 00:17:28,575
+Horse and the long-term relationships
+
+0
+00:17:29,087 --> 00:17:30,623
+Of international fisher effect
+
+0
+00:17:31,135 --> 00:17:32,671
+And purchasing power parity
+
+0
+00:17:34,207 --> 00:17:35,743
+Kevin long-term parities
+
+0
+00:17:35,999 --> 00:17:36,767
+Have exchange rates

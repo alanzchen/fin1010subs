@@ -1,0 +1,387 @@
+0
+00:00:01,024 --> 00:00:03,840
+I want to spend a few minutes today to talk about cash
+
+0
+00:00:04,352 --> 00:00:06,912
+You probably heard the expression cash is king
+
+0
+00:00:07,680 --> 00:00:09,216
+That's true in two senses
+
+0
+00:00:09,728 --> 00:00:10,496
+Claims
+
+0
+00:00:10,752 --> 00:00:13,056
+The definition of claims in finance
+
+0
+00:00:13,312 --> 00:00:16,128
+Are valued based on their expected cash flow
+
+0
+00:00:17,152 --> 00:00:17,664
+Complete
+
+0
+00:00:18,176 --> 00:00:19,456
+In times of difficulty
+
+0
+00:00:19,712 --> 00:00:22,272
+Company without sufficient cash balances made
+
+0
+00:00:22,528 --> 00:00:23,808
+Make face bankruptcy
+
+0
+00:00:24,576 --> 00:00:25,856
+A cash flow is
+
+0
+00:00:26,112 --> 00:00:29,696
+Is a cash payment into or out of company
+
+0
+00:00:30,208 --> 00:00:33,792
+Typically cash flows occur over a period of time
+
+0
+00:00:34,560 --> 00:00:35,584
+Icash stock
+
+0
+00:00:36,096 --> 00:00:37,376
+Your cash position
+
+0
+00:00:37,632 --> 00:00:41,728
+It's a balance of cash that is held in the bank accounts of a company
+
+0
+00:00:42,496 --> 00:00:43,520
+Icash stock
+
+0
+00:00:43,776 --> 00:00:44,288
+Is
+
+0
+00:00:44,544 --> 00:00:48,640
+The amount of cash available at an instant of
+
+0
+00:00:48,896 --> 00:00:49,408
+Time
+
+0
+00:00:50,432 --> 00:00:51,456
+Cash stock
+
+0
+00:00:51,712 --> 00:00:52,992
+Is a use of financing
+
+0
+00:00:53,504 --> 00:00:54,784
+So clearly i'm just in
+
+0
+00:00:55,040 --> 00:01:01,184
+Introduce two concepts the first concept was a cash flow concept and the second was a catch
+
+0
+00:01:01,440 --> 00:01:02,208
+Stock
+
+0
+00:01:02,464 --> 00:01:05,536
+I introduce the managerial balance sheet one of the six
+
+0
+00:01:05,792 --> 00:01:07,584
+Part 2 the man you energy or balance sheet
+
+0
+00:01:07,840 --> 00:01:13,472
+Which cash we can think of a cash flow at a change in cash balances
+
+0
+00:01:13,984 --> 00:01:16,032
+From the beginning of the year which i'll call you
+
+0
+00:01:16,288 --> 00:01:17,056
+Year 08
+
+0
+00:01:17,312 --> 00:01:18,592
+Time zero the balance
+
+0
+00:01:18,848 --> 00:01:19,616
+How cash at
+
+0
+00:01:19,872 --> 00:01:21,920
+At x 0 and that would change
+
+0
+00:01:22,176 --> 00:01:26,016
+To about the end of the year and i'll call that she won
+
+0
+00:01:26,528 --> 00:01:28,320
+For the change from c
+
+0
+00:01:28,576 --> 00:01:30,112
+02 c1
+
+0
+00:01:30,368 --> 00:01:31,648
+Is the cash flow
+
+0
+00:01:31,904 --> 00:01:33,440
+And clearly cash flow
+
+0
+00:01:33,696 --> 00:01:34,208
+Comes
+
+0
+00:01:34,720 --> 00:01:36,768
+Hartley from operating income
+
+0
+00:01:37,024 --> 00:01:42,144
+The cash flow is not same as operating income cash flow is greater
+
+0
+00:01:42,400 --> 00:01:45,472
+Then operating income to the extent that we have
+
+0
+00:01:45,728 --> 00:01:47,008
+Positive depreciation
+
+0
+00:01:47,520 --> 00:01:48,800
+Can amortize a shin
+
+0
+00:01:49,056 --> 00:01:51,616
+That reduce income relative to
+
+0
+00:01:52,128 --> 00:01:53,152
+Cash flow
+
+0
+00:01:53,664 --> 00:01:55,456
+Operating cash flow
+
+0
+00:01:55,968 --> 00:01:58,528
+It's all so different from operating in
+
+0
+00:01:58,784 --> 00:01:59,296
+Income
+
+0
+00:01:59,808 --> 00:02:01,344
+To the extent that are
+
+0
+00:02:01,600 --> 00:02:02,368
+Peebles
+
+0
+00:02:02,624 --> 00:02:05,440
+And are receivables at our inventories and
+
+0
+00:02:05,696 --> 00:02:08,768
+Can other parts of the working capital requirement change
+
+0
+00:02:09,280 --> 00:02:10,304
+Clearly fr
+
+0
+00:02:10,560 --> 00:02:11,584
+Working capital
+
+0
+00:02:11,840 --> 00:02:13,376
+Requirement increases
+
+0
+00:02:13,632 --> 00:02:16,192
+And it seems to do here shrimp to hear
+
+0
+00:02:16,704 --> 00:02:17,728
+Net increase
+
+0
+00:02:17,984 --> 00:02:19,264
+Must be financed
+
+0
+00:02:19,520 --> 00:02:20,032
+If the
+
+0
+00:02:20,288 --> 00:02:20,800
+The
+
+0
+00:02:21,056 --> 00:02:21,824
+Sources
+
+0
+00:02:22,080 --> 00:02:25,152
+How financing remain exactly the same
+
+0
+00:02:25,664 --> 00:02:26,176
+Then
+
+0
+00:02:26,432 --> 00:02:27,200
+Get my feet
+
+0
+00:02:27,456 --> 00:02:27,968
+Finance
+
+0
+00:02:28,224 --> 00:02:30,016
+By changes in cash balances
+
+0
+00:02:31,040 --> 00:02:33,088
+Cash flow from operations is
+
+0
+00:02:33,344 --> 00:02:34,624
+Is part of the
+
+0
+00:02:34,880 --> 00:02:36,160
+The overall change in
+
+0
+00:02:36,416 --> 00:02:36,928
+Cash
+
+0
+00:02:37,184 --> 00:02:37,952
+Author
+
+0
+00:02:38,208 --> 00:02:38,720
+Items
+
+0
+00:02:38,976 --> 00:02:40,256
+Change the cash balance
+
+0
+00:02:40,768 --> 00:02:41,280
+Maxwell
+
+0
+00:02:41,792 --> 00:02:42,560
+Among them are
+
+0
+00:02:43,328 --> 00:02:45,632
+Changes in the fixed assets
+
+0
+00:02:46,400 --> 00:02:46,912
+And the
+
+0
+00:02:47,168 --> 00:02:48,704
+Changes in financing we
+
+0
+00:02:48,960 --> 00:02:53,824
+We have to remember three kinds of financing short-term debt
+
+0
+00:02:54,080 --> 00:02:55,872
+Long-term debt equity
+
+0
+00:02:56,384 --> 00:02:57,920
+If short-term debt in
+
+0
+00:02:58,176 --> 00:02:59,200
+Increases
+
+0
+00:02:59,456 --> 00:03:01,760
+Danby have a positive cash flow if
+
+0
+00:03:02,016 --> 00:03:03,296
+Long-term debt
+
+0
+00:03:03,552 --> 00:03:04,576
+Decreases
+
+0
+00:03:05,088 --> 00:03:06,368
+Can we have a negative
+
+0
+00:03:06,880 --> 00:03:08,416
+Cash flow from the long-term depth
+
+0
+00:03:08,928 --> 00:03:09,952
+If paid in it
+
+0
+00:03:10,208 --> 00:03:10,720
+Equity
+
+0
+00:03:11,232 --> 00:03:14,560
+Decreases through an equity repurchase then we have
+
+0
+00:03:15,072 --> 00:03:16,096
+Negative
+
+0
+00:03:16,352 --> 00:03:17,120
+Cash flow
+
+0
+00:03:17,632 --> 00:03:18,912
+All of these together
+
+0
+00:03:19,424 --> 00:03:20,448
+Account for the
+
+0
+00:03:20,704 --> 00:03:21,472
+The change
+
+0
+00:03:21,728 --> 00:03:22,496
+In cash

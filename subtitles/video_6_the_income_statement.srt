@@ -1,0 +1,955 @@
+0
+00:00:00,512 --> 00:00:01,536
+This is the final lap
+
+0
+00:00:01,792 --> 00:00:04,864
+Electric in the introduction to financial state
+
+0
+00:00:05,632 --> 00:00:07,424
+The useful to the financial analyst
+
+0
+00:00:07,936 --> 00:00:08,704
+In this lecture
+
+0
+00:00:09,216 --> 00:00:10,752
+Htc income statement
+
+0
+00:00:11,520 --> 00:00:12,544
+That is electric
+
+0
+00:00:12,800 --> 00:00:14,336
+On the balance sheet
+
+0
+00:00:14,592 --> 00:00:16,128
+And cash flow statement
+
+0
+00:00:16,640 --> 00:00:17,920
+Define statements consider
+
+0
+00:00:18,176 --> 00:00:18,688
+Literally
+
+0
+00:00:19,200 --> 00:00:19,968
+To allow a stew
+
+0
+00:00:20,736 --> 00:00:21,504
+Analyze that
+
+0
+00:00:21,760 --> 00:00:23,296
+Easily the income statement some
+
+0
+00:00:23,552 --> 00:00:24,064
+Tim rogers
+
+0
+00:00:24,576 --> 00:00:29,184
+Portents of a company over a period of time usually that. of time is here
+
+0
+00:00:29,440 --> 00:00:31,232
+Brick could be a quarter
+
+0
+00:00:31,488 --> 00:00:33,536
+8/2 year
+
+0
+00:00:33,792 --> 00:00:35,072
+Is the income statement
+
+0
+00:00:36,608 --> 00:00:37,888
+Let me ask the question
+
+0
+00:00:38,144 --> 00:00:38,912
+How much money is
+
+0
+00:00:39,168 --> 00:00:39,936
+Business making
+
+0
+00:00:40,192 --> 00:00:41,472
+Income of the company is
+
+0
+00:00:41,728 --> 00:00:43,008
+Is equal to revenue mine
+
+0
+00:00:43,264 --> 00:00:44,032
+Minus expenses
+
+0
+00:00:44,544 --> 00:00:45,568
+Let's look at this
+
+0
+00:00:46,336 --> 00:00:46,848
+Equation in
+
+0
+00:00:47,104 --> 00:00:48,384
+In terms of a real company
+
+0
+00:00:49,408 --> 00:00:50,944
+Santa fe corporation
+
+0
+00:00:51,200 --> 00:00:54,528
+What is the largest oil refinery in china and
+
+0
+00:00:54,784 --> 00:00:57,600
+And one of the largest oil producers in china
+
+0
+00:00:58,624 --> 00:01:00,672
+In 2013
+
+0
+00:01:00,928 --> 00:01:02,208
+Are the revenue of
+
+0
+00:01:02,464 --> 00:01:02,976
+China peak
+
+0
+00:01:04,000 --> 00:01:06,560
+2.880 trillion
+
+0
+00:01:06,816 --> 00:01:07,840
+Jimmy b
+
+0
+00:01:08,096 --> 00:01:10,400
+And expenses were two point
+
+0
+00:01:10,912 --> 00:01:15,008
+810 trillium jahmene be giving a net income
+
+0
+00:01:15,264 --> 00:01:15,776
+Of
+
+0
+00:01:16,032 --> 00:01:16,544
+70
+
+0
+00:01:16,800 --> 00:01:18,080
+Billy and mandy
+
+0
+00:01:18,336 --> 00:01:19,104
+Expressing these in
+
+0
+00:01:19,616 --> 00:01:20,384
+Tennis terms
+
+0
+00:01:20,896 --> 00:01:22,688
+By taking all numbers
+
+0
+00:01:23,456 --> 00:01:25,504
+Image of revenue the expenses
+
+0
+00:01:25,760 --> 00:01:26,272
+Outside
+
+0
+00:01:26,528 --> 00:01:27,040
+Adipex
+
+0
+00:01:27,296 --> 00:01:28,576
+97.6
+
+0
+00:01:29,088 --> 00:01:30,112
+Santa fe avenue
+
+0
+00:01:30,368 --> 00:01:30,880
+Giving
+
+0
+00:01:31,136 --> 00:01:32,416
+An income of 2
+
+0
+00:01:32,672 --> 00:01:37,024
+2.4% or a return on sales at sometimes called
+
+0
+00:01:37,280 --> 00:01:38,048
+5 2.4
+
+0
+00:01:38,304 --> 00:01:38,816
+Represent
+
+0
+00:01:39,584 --> 00:01:44,704
+How did we get the numbers what we simplify them from the consolidated financial
+
+0
+00:01:45,216 --> 00:01:46,752
+Statements prepared under
+
+0
+00:01:47,008 --> 00:01:49,312
+International financial reporting standards
+
+0
+00:01:49,824 --> 00:01:52,384
+These numbers refer to footnotes
+
+0
+00:01:52,640 --> 00:01:53,408
+At the end of
+
+0
+00:01:53,664 --> 00:01:54,176
+Of the
+
+0
+00:01:54,688 --> 00:01:55,456
+Statements
+
+0
+00:01:55,968 --> 00:01:59,040
+Here we've simplified and you can see that
+
+0
+00:01:59,808 --> 00:02:01,856
+Revenue is made up of two parts
+
+0
+00:02:02,368 --> 00:02:03,648
+Turnover is largely
+
+0
+00:02:04,160 --> 00:02:06,720
+Videos of chemical products sales of refined
+
+0
+00:02:06,976 --> 00:02:07,744
+Oil and
+
+0
+00:02:08,000 --> 00:02:09,280
+Sales of crude
+
+0
+00:02:09,536 --> 00:02:10,048
+The
+
+0
+00:02:10,304 --> 00:02:11,840
+Other operating revenue is
+
+0
+00:02:13,120 --> 00:02:13,632
+Services
+
+0
+00:02:14,144 --> 00:02:15,424
+And some rents from
+
+0
+00:02:15,680 --> 00:02:16,448
+Kim properties
+
+0
+00:02:16,960 --> 00:02:20,288
+You can see that sign up and gets virtually all of its revenues from
+
+0
+00:02:21,056 --> 00:02:22,848
+The sale of oil and gas
+
+0
+00:02:23,872 --> 00:02:24,896
+The refined products
+
+0
+00:02:25,664 --> 00:02:26,688
+Cost of goods sold
+
+0
+00:02:26,944 --> 00:02:27,712
+Barbie
+
+0
+00:02:27,968 --> 00:02:29,248
+Purchases of
+
+0
+00:02:29,760 --> 00:02:31,552
+Crude oil products in operating
+
+0
+00:02:32,064 --> 00:02:32,576
+Tyson express
+
+0
+00:02:32,832 --> 00:02:33,344
+Texas
+
+0
+00:02:33,856 --> 00:02:34,624
+This item
+
+0
+00:02:35,136 --> 00:02:37,440
+Is a summation of sales
+
+0
+00:02:37,952 --> 00:02:38,720
+General administrative expense
+
+0
+00:02:38,976 --> 00:02:39,488
+Texas
+
+0
+00:02:39,744 --> 00:02:40,512
+Exploration expense
+
+0
+00:02:40,768 --> 00:02:41,280
+Dances
+
+0
+00:02:41,536 --> 00:02:42,816
+Personal expenses
+
+0
+00:02:43,072 --> 00:02:43,840
+Taxes
+
+0
+00:02:44,096 --> 00:02:45,120
+Other than
+
+0
+00:02:45,376 --> 00:02:46,400
+Income tax
+
+0
+00:02:46,656 --> 00:02:48,192
+These are levees
+
+0
+00:02:48,704 --> 00:02:50,240
+Daily consumption tax
+
+0
+00:02:50,752 --> 00:02:52,288
+On products sold
+
+0
+00:02:52,544 --> 00:02:53,312
+And finally
+
+0
+00:02:53,568 --> 00:02:55,872
+Other operating expenses and income
+
+0
+00:02:56,640 --> 00:02:59,200
+Depreciation depletion and amortization
+
+0
+00:02:59,712 --> 00:03:02,272
+How are non-cash expenses
+
+0
+00:03:02,784 --> 00:03:03,552
+Allocate
+
+0
+00:03:04,320 --> 00:03:05,088
+Skechers
+
+0
+00:03:05,600 --> 00:03:07,136
+Made in previous periods
+
+0
+00:03:07,648 --> 00:03:09,952
+To the period when revenue is
+
+0
+00:03:10,464 --> 00:03:12,000
+Generated by those kappa
+
+0
+00:03:12,256 --> 00:03:13,280
+Capital assets
+
+0
+00:03:13,792 --> 00:03:14,560
+Depletion
+
+0
+00:03:14,816 --> 00:03:15,328
+Is
+
+0
+00:03:15,584 --> 00:03:16,096
+Unique
+
+0
+00:03:17,120 --> 00:03:18,656
+The extractive industries
+
+0
+00:03:19,424 --> 00:03:20,960
+The oil and gas reserves avenue
+
+0
+00:03:21,216 --> 00:03:21,984
+Estimated
+
+0
+00:03:22,752 --> 00:03:27,872
+And depletion allocates the cost of acquiring and developing the reserves
+
+0
+00:03:28,384 --> 00:03:29,408
+To the. in
+
+0
+00:03:29,664 --> 00:03:30,432
+In which they are extra
+
+0
+00:03:32,480 --> 00:03:33,760
+Sammy's items
+
+0
+00:03:34,016 --> 00:03:35,296
+Gives you the burn
+
+0
+00:03:36,064 --> 00:03:36,832
+For interested
+
+0
+00:03:37,856 --> 00:03:38,368
+4 everett
+
+0
+00:03:39,136 --> 00:03:40,160
+Subtract from
+
+0
+00:03:40,928 --> 00:03:42,208
+The net interest
+
+0
+00:03:43,488 --> 00:03:44,000
+Kingsley
+
+0
+00:03:44,256 --> 00:03:44,768
+The earnings before
+
+0
+00:03:45,024 --> 00:03:46,048
+Vortex or ebt
+
+0
+00:03:46,816 --> 00:03:47,840
+The text item
+
+0
+00:03:48,096 --> 00:03:48,864
+Is the
+
+0
+00:03:49,120 --> 00:03:50,144
+Income tax
+
+0
+00:03:51,168 --> 00:03:51,936
+Corporate income
+
+0
+00:03:53,472 --> 00:03:55,264
+When's track state taxes
+
+0
+00:03:55,776 --> 00:03:57,056
+Give you the
+
+0
+00:03:57,312 --> 00:03:58,592
+Earnings after tax
+
+0
+00:03:59,616 --> 00:04:02,688
+In finance you have to be so careful about taxes
+
+0
+00:04:03,456 --> 00:04:04,736
+The average tax rate
+
+0
+00:04:04,992 --> 00:04:05,760
+Is simply the time
+
+0
+00:04:06,016 --> 00:04:06,528
+Taxes due
+
+0
+00:04:06,784 --> 00:04:07,808
+Defined by earnings before
+
+0
+00:04:08,064 --> 00:04:08,576
+4 tax
+
+0
+00:04:09,344 --> 00:04:10,880
+The marginal tax rate is
+
+0
+00:04:11,136 --> 00:04:12,416
+Is the sense of tax
+
+0
+00:04:12,928 --> 00:04:15,232
+I pay on the last dollar of income
+
+0
+00:04:16,512 --> 00:04:18,047
+Frequently and finance are interested in
+
+0
+00:04:18,303 --> 00:04:19,327
+In the marginal tax rate
+
+0
+00:04:20,351 --> 00:04:22,399
+Where is the average tax rate
+
+0
+00:04:22,911 --> 00:04:23,935
+Which we calculate tip
+
+0
+00:04:24,191 --> 00:04:25,215
+Tiffany by the fighting
+
+0
+00:04:25,983 --> 00:04:26,751
+Buy the earth for
+
+0
+00:04:28,543 --> 00:04:33,919
+If you see the average tax rate is 26.1% in 2013 and 20
+
+0
+00:04:34,431 --> 00:04:36,479
+6.3% in 2012
+
+0
+00:04:37,503 --> 00:04:38,783
+But we know that the
+
+0
+00:04:39,039 --> 00:04:41,087
+Chinese have a flat tax
+
+0
+00:04:42,111 --> 00:04:45,183
+25% no matter what the income of a company
+
+0
+00:04:45,439 --> 00:04:47,743
+Tax will be 25%
+
+0
+00:04:48,511 --> 00:04:49,791
+Time before tax
+
+0
+00:04:50,559 --> 00:04:51,327
+Fun projects
+
+0
+00:04:51,583 --> 00:04:57,727
+There are in the western regions of the prc these are taxed at preferential income rates
+
+0
+00:04:57,983 --> 00:04:59,263
+Up 15%
+
+0
+00:04:59,519 --> 00:05:00,543
+On foreign operations 210
+
+0
+00:05:00,799 --> 00:05:02,335
+Tax rate if it's higher than 45%
+
+0
+00:05:03,359 --> 00:05:04,127
+Will be the
+
+0
+00:05:04,383 --> 00:05:05,663
+Tax rate of these
+
+0
+00:05:05,919 --> 00:05:07,967
+Jurisdiction in which side effect is off
+
+0
+00:05:08,223 --> 00:05:08,735
+Operating in
+
+0
+00:05:08,991 --> 00:05:10,271
+In the republic of angola
+
+0
+00:05:10,783 --> 00:05:11,807
+The tax rate is 50 /
+
+0
+00:05:12,831 --> 00:05:18,207
+Should a marshall tax rate for project in the western region of the prc would be 15%
+
+0
+00:05:18,719 --> 00:05:19,231
+Danforth
+
+0
+00:05:19,487 --> 00:05:22,303
+Projects in the republic of angola for sanipac
+
+0
+00:05:22,815 --> 00:05:23,327
+50/50
+
+0
+00:05:24,863 --> 00:05:27,167
+Winnipeg is one of the major state-owned
+
+0
+00:05:27,423 --> 00:05:29,215
+And enterprises of china
+
+0
+00:05:29,727 --> 00:05:33,055
+These state-owned enterprises or sos
+
+0
+00:05:33,567 --> 00:05:35,359
+Are owned partly by the government
+
+0
+00:05:35,615 --> 00:05:39,199
+There are 116 billion shares outstanding
+
+0
+00:05:39,455 --> 00:05:41,759
+46 billion are owned
+
+0
+00:05:42,015 --> 00:05:45,343
+By the china petroleum corporation
+
+0
+00:05:45,599 --> 00:05:46,111
+So
+
+0
+00:05:46,367 --> 00:05:47,391
+74% of
+
+0
+00:05:47,647 --> 00:05:48,415
+China pan
+
+0
+00:05:48,671 --> 00:05:50,719
+I is actually owned by the state
+
+0
+00:05:50,975 --> 00:05:52,255
+Another way to say that
+
+0
+00:05:52,511 --> 00:05:55,327
+Is the public float of side effects
+
+0
+00:05:55,583 --> 00:05:59,423
+Is about 26% of the shares issued by the company
+
+0
+00:05:59,679 --> 00:06:01,215
+Shareholder interested in
+
+0
+00:06:01,471 --> 00:06:02,751
+How much money
+
+0
+00:06:03,007 --> 00:06:04,031
+The personal make
+
+0
+00:06:04,287 --> 00:06:04,799
+From
+
+0
+00:06:05,311 --> 00:06:06,591
+The earnings of a company
+
+0
+00:06:07,103 --> 00:06:10,687
+And these are typically expressed in terms of earnings per share
+
+0
+00:06:11,199 --> 00:06:13,759
+When somebody takes the earnings after taxes
+
+0
+00:06:14,015 --> 00:06:17,855
+To the cheryl does the company and divide that by shares outstanding 2
+
+0
+00:06:18,111 --> 00:06:19,647
+Earnings per share
+
+0
+00:06:19,903 --> 00:06:21,183
+Fort side effects
+
+0
+00:06:21,439 --> 00:06:26,303
+The earnings per share of a company are .57 jen mean be
+
+0
+00:06:26,559 --> 00:06:29,375
+Calculated as the earnings after taxes
+
+0
+00:06:29,887 --> 00:06:30,911
+For shareholders
+
+0
+00:06:31,679 --> 00:06:33,983
+Divided by the number of shares outstanding
+
+0
+00:06:34,239 --> 00:06:36,799
+Although earnings after tax are running to all of them
+
+0
+00:06:37,055 --> 00:06:37,823
+Assets
+
+0
+00:06:38,079 --> 00:06:39,615
+That are on the balance sheet
+
+0
+00:06:39,871 --> 00:06:42,431
+In fact there is consolidation
+
+0
+00:06:42,687 --> 00:06:43,199
+Of
+
+0
+00:06:43,711 --> 00:06:44,479
+Japanese
+
+0
+00:06:44,735 --> 00:06:48,063
+Who is shares are not 100% owned by side effect
+
+0
+00:06:48,575 --> 00:06:49,599
+Beyond bricks
+
+0
+00:06:49,855 --> 00:06:50,623
+Example buy
+
+0
+00:06:50,879 --> 00:06:52,415
+Why minority shareholders
+
+0
+00:06:52,671 --> 00:06:56,255
+How we control the income of the minority shareholders
+
+0
+00:06:56,511 --> 00:06:58,559
+But that income have to be taken out
+
+0
+00:06:59,071 --> 00:07:00,351
+In order to get the
+
+0
+00:07:00,607 --> 00:07:03,167
+Earnings after tax to shareholders and
+
+0
+00:07:03,423 --> 00:07:05,215
+Can only that number is used in
+
+0
+00:07:05,471 --> 00:07:07,519
+In the calculation of the earnings per share
+
+0
+00:07:07,775 --> 00:07:12,639
+However only a portion of earnings are actually paid out to shareholders as cash
+
+0
+00:07:13,151 --> 00:07:15,455
+Does cash payments to shareholders
+
+0
+00:07:15,711 --> 00:07:17,503
+Are paid out as dividends
+
+0
+00:07:17,759 --> 00:07:18,527
+Dividends
+
+0
+00:07:18,783 --> 00:07:20,319
+Divided by shares outstanding
+
+0
+00:07:20,575 --> 00:07:23,903
+Are dividends per share sinopec paid out
+
+0
+00:07:24,415 --> 00:07:25,695
+About 28
+
+0
+00:07:26,207 --> 00:07:28,511
+Gillian jimmy b in dividends
+
+0
+00:07:29,023 --> 00:07:30,047
+And so the
+
+0
+00:07:30,303 --> 00:07:31,583
+Dividends per share
+
+0
+00:07:31,839 --> 00:07:33,119
+Is simply be
+
+0
+00:07:33,631 --> 00:07:34,911
+Total dividends
+
+0
+00:07:35,167 --> 00:07:38,751
+Divided by the sheraton standing once again multiplying by a million
+
+0
+00:07:39,263 --> 00:07:39,775
+If i stay
+
+0
+00:07:40,543 --> 00:07:41,567
+Dividends per share
+
+0
+00:07:42,079 --> 00:07:44,127
+That means that the dividend payout rate
+
+0
+00:07:44,639 --> 00:07:48,223
+I have to say the dividends per share divided by earnings per share what
+
+0
+00:07:48,479 --> 00:07:48,991
+What about 4
+
+0
+00:07:49,247 --> 00:07:55,391
+42% cash balances did increase from 2012 2013
+
+0
+00:07:55,647 --> 00:08:00,255
+Some cash was generated through increasing the negative worth
+
+0
+00:08:00,511 --> 00:08:01,791
+Austin capital requirement
+
+0
+00:08:02,047 --> 00:08:03,327
+Short-term debt and
+
+0
+00:08:03,583 --> 00:08:04,607
+Long-term debt in
+
+0
+00:08:04,863 --> 00:08:07,167
+Chris tested equity and these
+
+0
+00:08:07,423 --> 00:08:07,935
+Financed
+
+0
+00:08:08,191 --> 00:08:13,823
+The increase in fixed assets so from this introduction to the income statement
+
+0
+00:08:14,591 --> 00:08:17,151
+Can also remembering our discussions of
+
+0
+00:08:17,407 --> 00:08:18,943
+Orthopedist lectures
+
+0
+00:08:19,199 --> 00:08:23,039
+You can understand that they're a tremendous differences between income
+
+0
+00:08:23,551 --> 00:08:24,575
+Cash returns

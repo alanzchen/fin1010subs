@@ -1,0 +1,1079 @@
+0
+00:00:01,024 --> 00:00:04,608
+I'm going to continue my discussion of financial ratios
+
+0
+00:00:04,864 --> 00:00:05,888
+By looking at
+
+0
+00:00:06,400 --> 00:00:07,168
+Call fancy
+
+0
+00:00:07,424 --> 00:00:08,448
+And liquidity
+
+0
+00:00:09,216 --> 00:00:13,056
+The firm is liquid if it can meet its obligations when they come to you
+
+0
+00:00:13,568 --> 00:00:14,592
+Loss of equity
+
+0
+00:00:15,616 --> 00:00:16,640
+A firm is solvent
+
+0
+00:00:17,408 --> 00:00:18,944
+The value of assets
+
+0
+00:00:19,200 --> 00:00:21,504
+Exceed the value of a liabilities
+
+0
+00:00:22,016 --> 00:00:24,832
+In finance there are three major decisions
+
+0
+00:00:25,088 --> 00:00:26,112
+Mermaid body core
+
+0
+00:00:26,368 --> 00:00:27,136
+Corporate treasurer
+
+0
+00:00:27,392 --> 00:00:29,440
+The size of the couch cushion
+
+0
+00:00:29,952 --> 00:00:33,024
+The decision as to whether one to have long-term
+
+0
+00:00:33,280 --> 00:00:33,792
+Debt
+
+0
+00:00:34,048 --> 00:00:35,328
+What short-term debt
+
+0
+00:00:35,840 --> 00:00:38,144
+And the third decision is the capital structure decision
+
+0
+00:00:39,168 --> 00:00:39,680
+Ave
+
+0
+00:00:40,960 --> 00:00:41,472
+Equity
+
+0
+00:00:41,728 --> 00:00:43,008
+So this firm is liquid
+
+0
+00:00:43,776 --> 00:00:46,080
+Liquid because it's short-term debt
+
+0
+00:00:46,592 --> 00:00:47,616
+Is small
+
+0
+00:00:47,872 --> 00:00:49,152
+Relative to
+
+0
+00:00:49,408 --> 00:00:50,432
+It's cash equivalents
+
+0
+00:00:51,712 --> 00:00:54,528
+Gears are rough diagram of the managerial balance sheet
+
+0
+00:00:54,784 --> 00:00:57,088
+And if the short-term debt holders
+
+0
+00:00:57,600 --> 00:00:58,624
+Recall the debt
+
+0
+00:00:59,648 --> 00:01:05,024
+Obviously that dad at shortened equity paid out of cash and we're left with
+
+0
+00:01:05,280 --> 00:01:06,304
+A balance sheet
+
+0
+00:01:06,560 --> 00:01:07,840
+It still has a
+
+0
+00:01:08,096 --> 00:01:08,608
+A little bit of cash
+
+0
+00:01:08,864 --> 00:01:09,632
+Cash reserve
+
+0
+00:01:09,888 --> 00:01:10,400
+And
+
+0
+00:01:10,656 --> 00:01:12,704
+No short-term claimants
+
+0
+00:01:13,216 --> 00:01:14,496
+I can push the company
+
+0
+00:01:14,752 --> 00:01:15,776
+Indiana quality
+
+0
+00:01:16,800 --> 00:01:18,592
+However that same company
+
+0
+00:01:18,848 --> 00:01:20,128
+All the liquid
+
+0
+00:01:20,384 --> 00:01:21,408
+Yes actually
+
+0
+00:01:21,664 --> 00:01:22,432
+How do leveraged
+
+0
+00:01:22,944 --> 00:01:24,224
+It is at risk
+
+0
+00:01:24,480 --> 00:01:25,504
+Positivity
+
+0
+00:01:25,760 --> 00:01:27,296
+Because the assets
+
+0
+00:01:27,552 --> 00:01:30,368
+Could suffer a decline in value
+
+0
+00:01:31,392 --> 00:01:32,416
+And losses
+
+0
+00:01:32,672 --> 00:01:33,184
+To both
+
+0
+00:01:33,696 --> 00:01:34,464
+Yes holders
+
+0
+00:01:34,720 --> 00:01:35,744
+And equity holders
+
+0
+00:01:36,768 --> 00:01:38,560
+Credit that was an example of a
+
+0
+00:01:38,816 --> 00:01:39,328
+Affirmed
+
+0
+00:01:40,352 --> 00:01:41,120
+Which liquid butt
+
+0
+00:01:41,376 --> 00:01:42,656
+It became insolvent
+
+0
+00:01:43,424 --> 00:01:45,216
+Here's a firm that is solvent but
+
+0
+00:01:45,472 --> 00:01:46,496
+What is a liquid
+
+0
+00:01:47,264 --> 00:01:50,592
+You can see that it has a large amount of short-term debt
+
+0
+00:01:51,104 --> 00:01:52,384
+Relative to its
+
+0
+00:01:52,640 --> 00:01:53,920
+More liquid assets
+
+0
+00:01:54,432 --> 00:01:59,040
+Cash and cash equivalents being very liquid they could be paid out without any loss
+
+0
+00:01:59,296 --> 00:02:00,832
+Weston capital requirement
+
+0
+00:02:01,344 --> 00:02:05,440
+Substantially liquid and fixed assets completely liquid
+
+0
+00:02:06,208 --> 00:02:09,536
+If there was a calling of the short-term debt
+
+0
+00:02:09,792 --> 00:02:11,840
+The debt holders demand for repayment
+
+0
+00:02:12,352 --> 00:02:13,376
+Would result in
+
+0
+00:02:13,632 --> 00:02:14,400
+Stress
+
+0
+00:02:14,912 --> 00:02:15,424
+The firm
+
+0
+00:02:15,936 --> 00:02:18,240
+Only the cash it available for payout
+
+0
+00:02:18,752 --> 00:02:20,544
+The firm with the unable to liquidate its work
+
+0
+00:02:20,800 --> 00:02:22,848
+Working capital requirement in fixed assets
+
+0
+00:02:23,360 --> 00:02:24,384
+At a fair value
+
+0
+00:02:24,896 --> 00:02:26,944
+And therefore it would suffer distress
+
+0
+00:02:27,456 --> 00:02:31,296
+Did the stress might even lead to it being petition the into bankruptcy
+
+0
+00:02:31,552 --> 00:02:35,136
+If the debtor appeared on able to pay payment
+
+0
+00:02:35,392 --> 00:02:37,440
+And the creditor observe demand
+
+0
+00:02:37,696 --> 00:02:38,464
+The creditor
+
+0
+00:02:38,720 --> 00:02:41,536
+And the debtors could propose plans for a settlement by
+
+0
+00:02:41,792 --> 00:02:44,096
+Pretty with a failure to agree on the plans
+
+0
+00:02:44,352 --> 00:02:44,864
+Kermit
+
+0
+00:02:45,632 --> 00:02:47,168
+Pushed into bankruptcy and
+
+0
+00:02:47,424 --> 00:02:48,448
+Could be liquidated
+
+0
+00:02:49,216 --> 00:02:49,984
+So clearly
+
+0
+00:02:50,240 --> 00:02:51,520
+Post solvency
+
+0
+00:02:51,776 --> 00:02:54,080
+And the quiddity are very important to the
+
+0
+00:02:54,336 --> 00:02:58,176
+Did the firm. some of the ratios we can use to measure liquidity
+
+0
+00:02:58,432 --> 00:02:59,456
+The cash ratio
+
+0
+00:02:59,712 --> 00:03:05,856
+The simplest is simply cash over current liabilities the current ratio current assets / current liabilities
+
+0
+00:03:06,112 --> 00:03:08,160
+And the quick ratio current assets minus
+
+0
+00:03:08,416 --> 00:03:09,440
+Inventories
+
+0
+00:03:09,696 --> 00:03:10,976
+Out of current liabilities
+
+0
+00:03:11,488 --> 00:03:13,536
+These ratios are easy to calculate
+
+0
+00:03:14,048 --> 00:03:14,816
+Independence is our
+
+0
+00:03:15,072 --> 00:03:16,352
+Unambiguously
+
+0
+00:03:16,608 --> 00:03:19,424
+Placed on the balance sheet and they do give a
+
+0
+00:03:19,936 --> 00:03:26,080
+Good indication of liquidity of a firm another liquidity indicator would be using the managerial balance sheet
+
+0
+00:03:26,848 --> 00:03:27,616
+And here we
+
+0
+00:03:27,872 --> 00:03:32,736
+We have a net stable funding ratio the shows the stable funds phone
+
+0
+00:03:32,992 --> 00:03:33,760
+Find the knot shop
+
+0
+00:03:34,016 --> 00:03:37,088
+Subject to withdrawal by the investor to
+
+0
+00:03:37,344 --> 00:03:40,416
+To have equity in long-term debt divided by the
+
+0
+00:03:40,672 --> 00:03:42,464
+The need for stable funds
+
+0
+00:03:42,720 --> 00:03:43,488
+Fixed assets
+
+0
+00:03:43,744 --> 00:03:45,280
+Can working capital requirement
+
+0
+00:03:45,536 --> 00:03:47,584
+Are needed to be finance
+
+0
+00:03:47,840 --> 00:03:49,120
+From stable funds
+
+0
+00:03:49,888 --> 00:03:50,656
+Sinopec
+
+0
+00:03:51,168 --> 00:03:53,216
+Show itself to be surprisingly
+
+0
+00:03:53,472 --> 00:03:53,984
+Liquid
+
+0
+00:03:54,496 --> 00:03:55,008
+Another quiddity
+
+0
+00:03:55,520 --> 00:03:56,032
+Is decrease
+
+0
+00:03:58,080 --> 00:03:59,104
+Current assets
+
+0
+00:03:59,616 --> 00:04:02,176
+Far far left as current liabilities on
+
+0
+00:04:02,432 --> 00:04:03,200
+Only about 17
+
+0
+00:04:04,992 --> 00:04:05,504
+Going down to 60
+
+0
+00:04:06,528 --> 00:04:07,040
+In 2000
+
+0
+00:04:08,320 --> 00:04:09,344
+If you subtract the in
+
+0
+00:04:09,600 --> 00:04:11,392
+Inventories from the current assets
+
+0
+00:04:11,904 --> 00:04:14,976
+Before dividing them by current liabilities to get the quick crew race
+
+0
+00:04:15,232 --> 00:04:15,744
+Show me
+
+0
+00:04:16,000 --> 00:04:17,024
+Pc assembly
+
+0
+00:04:17,280 --> 00:04:18,047
+Decline
+
+0
+00:04:18,303 --> 00:04:20,607
+I am the numbers are very low
+
+0
+00:04:20,863 --> 00:04:21,375
+Furniture
+
+0
+00:04:21,631 --> 00:04:23,935
+Terms that do not have guaranteed access to
+
+0
+00:04:25,215 --> 00:04:28,543
+Frequently they see a quick ratio of less than 1
+
+0
+00:04:28,799 --> 00:04:32,127
+As being problematic this is about one-quarter
+
+0
+00:04:32,639 --> 00:04:38,783
+The cash ratio is a miniscule at 2% so a withdrawal of 2% of the current liabilities
+
+0
+00:04:40,063 --> 00:04:45,183
+Take away the entire cash balance and only 82 - 87%
+
+0
+00:04:46,719 --> 00:04:47,487
+The needs
+
+0
+00:04:47,999 --> 00:04:49,023
+First eagle funding
+
+0
+00:04:49,535 --> 00:04:50,559
+Barnett
+
+0
+00:04:50,815 --> 00:04:52,351
+By actual stable funding
+
+0
+00:04:52,863 --> 00:04:53,631
+To the other
+
+0
+00:04:53,887 --> 00:04:54,911
+18%
+
+0
+00:04:55,423 --> 00:04:56,447
+At is finance
+
+0
+00:04:56,703 --> 00:04:58,495
+By unstable short-term fun
+
+0
+00:04:59,775 --> 00:05:03,359
+Treating to roche we see a completely different liquid he picture
+
+0
+00:05:03,615 --> 00:05:04,895
+The current ratio
+
+0
+00:05:05,151 --> 00:05:11,295
+There is between 1.35 and 1.74 all the all of liquidity ratios are dropping
+
+0
+00:05:11,807 --> 00:05:16,927
+They're still very comfortable the quick ratio is above one cash ranges for
+
+0
+00:05:17,183 --> 00:05:18,207
+From 1/2 to
+
+0
+00:05:18,463 --> 00:05:24,607
+The three quarters of current liabilities and more stable funding is available then
+
+0
+00:05:24,863 --> 00:05:27,167
+Can the need for stable funding
+
+0
+00:05:27,679 --> 00:05:33,823
+There's an excess of stable funding what can explain this difference between sign up
+
+0
+00:05:34,079 --> 00:05:34,591
+Hack
+
+0
+00:05:35,359 --> 00:05:37,151
+Roshe one reason
+
+0
+00:05:37,407 --> 00:05:42,783
+Might be the guaranteed availability of bank funding sinopec
+
+0
+00:05:43,039 --> 00:05:49,183
+Is a state on enterprise in china the state-owned banks are very comfortable with lending design a peck
+
+0
+00:05:49,695 --> 00:05:51,999
+Santa probably feels very comfortable in
+
+0
+00:05:52,255 --> 00:05:54,559
+Can drawing down bank line of credit when
+
+0
+00:05:54,815 --> 00:05:55,839
+Whenever it wishes to
+
+0
+00:05:56,351 --> 00:05:58,143
+So it doesn't need the cash balances
+
+0
+00:05:59,167 --> 00:06:02,751
+Roach doesn't have that kind of a position within the
+
+0
+00:06:03,007 --> 00:06:06,591
+Swiss economy moreover roche has a strategy of
+
+0
+00:06:06,847 --> 00:06:11,199
+Purchasing companies with promising intellectual property so
+
+0
+00:06:11,455 --> 00:06:14,783
+Maintaining a high cash balances and high liquidity
+
+0
+00:06:15,039 --> 00:06:15,807
+Can help
+
+0
+00:06:16,063 --> 00:06:16,575
+Roshe
+
+0
+00:06:16,831 --> 00:06:18,111
+Keep the powder dry for
+
+0
+00:06:18,367 --> 00:06:21,951
+For acquisitions turning now to leverage or so fancy
+
+0
+00:06:22,719 --> 00:06:23,743
+Capital structure
+
+0
+00:06:23,999 --> 00:06:26,303
+Involve step with short-term and long-term
+
+0
+00:06:26,559 --> 00:06:27,071
+Debt
+
+0
+00:06:27,327 --> 00:06:28,351
+And equity
+
+0
+00:06:28,607 --> 00:06:30,655
+Buy the balance sheet identity
+
+0
+00:06:30,911 --> 00:06:32,191
+We know that acids are
+
+0
+00:06:32,447 --> 00:06:33,215
+Are equal to 2
+
+0
+00:06:33,983 --> 00:06:34,751
+Class act
+
+0
+00:06:35,263 --> 00:06:37,055
+From the balance sheet identity
+
+0
+00:06:37,567 --> 00:06:38,335
+You can see that
+
+0
+00:06:38,591 --> 00:06:40,127
+Three measures of
+
+0
+00:06:40,383 --> 00:06:41,407
+Capital structure
+
+0
+00:06:41,663 --> 00:06:45,247
+Are essentially identical the debt equity ratio is simply
+
+0
+00:06:45,503 --> 00:06:47,551
+Total debt divided by total equity
+
+0
+00:06:48,063 --> 00:06:49,087
+The declaration which
+
+0
+00:06:49,343 --> 00:06:51,391
+Which is simply debt over assets
+
+0
+00:06:51,647 --> 00:06:53,439
+Is simply 1-2
+
+0
+00:06:53,695 --> 00:06:54,719
+The reciprocal
+
+0
+00:06:54,975 --> 00:06:55,999
+Of the equity mall
+
+0
+00:06:57,279 --> 00:06:58,303
+The reciprocal of the
+
+0
+00:06:58,559 --> 00:06:59,839
+Equity multiple
+
+0
+00:07:00,095 --> 00:07:00,607
+Mississippi
+
+0
+00:07:00,863 --> 00:07:01,631
+Equity drive
+
+0
+00:07:01,887 --> 00:07:03,167
+Divided by assets
+
+0
+00:07:03,935 --> 00:07:06,751
+1 - equity divided by assets is
+
+0
+00:07:07,007 --> 00:07:08,287
+The assets
+
+0
+00:07:08,799 --> 00:07:09,311
+Minus equity divided
+
+0
+00:07:09,567 --> 00:07:10,591
+Guided by assets
+
+0
+00:07:11,103 --> 00:07:12,127
+Simply dental
+
+0
+00:07:12,383 --> 00:07:13,151
+Over assets
+
+0
+00:07:13,663 --> 00:07:14,943
+Is the debt ratio
+
+0
+00:07:16,735 --> 00:07:17,247
+As we noted for
+
+0
+00:07:17,503 --> 00:07:18,015
+4
+
+0
+00:07:19,295 --> 00:07:21,087
+Which is more
+
+0
+00:07:21,855 --> 00:07:22,367
+Leveraged
+
+0
+00:07:22,623 --> 00:07:23,391
+Side effects
+
+0
+00:07:23,903 --> 00:07:24,927
+But it's
+
+0
+00:07:26,207 --> 00:07:26,975
+Debt ratio is
+
+0
+00:07:27,231 --> 00:07:27,743
+Is dropping its
+
+0
+00:07:28,255 --> 00:07:28,767
+Map from
+
+0
+00:07:29,023 --> 00:07:30,815
+72% of balance sheet
+
+0
+00:07:31,839 --> 00:07:33,119
+In 2011
+
+0
+00:07:33,631 --> 00:07:34,143
+2
+
+0
+00:07:35,167 --> 00:07:36,703
+64% of the balance sheet
+
+0
+00:07:37,471 --> 00:07:37,983
+2000
+
+0
+00:07:38,495 --> 00:07:39,007
+14
+
+0
+00:07:39,519 --> 00:07:41,567
+The long-term debt ratio
+
+0
+00:07:42,335 --> 00:07:44,383
+Looks at long-term debt
+
+0
+00:07:45,407 --> 00:07:46,431
+Portion of equity
+
+0
+00:07:46,943 --> 00:07:48,991
+Some consider that short-term debt
+
+0
+00:07:49,247 --> 00:07:51,295
+It's not a permanent part of the capital structure
+
+0
+00:07:51,551 --> 00:07:52,063
+Dr
+
+0
+00:07:52,319 --> 00:07:53,343
+But in fact
+
+0
+00:07:53,599 --> 00:07:54,111
+Varies
+
+0
+00:07:54,623 --> 00:07:55,903
+From time to time
+
+0
+00:07:56,159 --> 00:07:58,207
+Throughout the year going up and down
+
+0
+00:07:58,463 --> 00:08:01,535
+As the needs of working capital
+
+0
+00:08:02,047 --> 00:08:02,815
+Are financing in
+
+0
+00:08:03,071 --> 00:08:04,095
+Increase or decrease
+
+0
+00:08:04,607 --> 00:08:05,119
+During the
+
+0
+00:08:05,887 --> 00:08:06,911
+Operating cycle
+
+0
+00:08:07,935 --> 00:08:08,703
+Is the company 2
+
+0
+00:08:08,959 --> 00:08:10,239
+Too heavily leveraged
+
+0
+00:08:10,751 --> 00:08:12,287
+One way to answer that question is
+
+0
+00:08:12,543 --> 00:08:13,823
+Is to look at the
+
+0
+00:08:14,079 --> 00:08:17,151
+Cash available for debt service
+
+0
+00:08:17,407 --> 00:08:19,967
+10 / the debt service
+
+0
+00:08:20,223 --> 00:08:24,319
+The narrowest measure of debt service is the interest that is due on the dead
+
+0
+00:08:24,831 --> 00:08:26,623
+So in both of these measures
+
+0
+00:08:27,135 --> 00:08:28,159
+Look at interest in
+
+0
+00:08:28,415 --> 00:08:29,439
+In the denominator
+
+0
+00:08:30,975 --> 00:08:31,743
+Times interest
+
+0
+00:08:31,999 --> 00:08:32,511
+Earning take
+
+0
+00:08:32,767 --> 00:08:37,375
+Pics of attorneys before interest and taxes and / interest
+
+0
+00:08:38,143 --> 00:08:39,679
+The cash coverage ratio
+
+0
+00:08:39,935 --> 00:08:41,983
+Ads depreciation and amortization
+
+0
+00:08:42,239 --> 00:08:43,007
+2 abbott
+
+0
+00:08:43,263 --> 00:08:46,335
+In order to get a broad measure of cash available
+
+0
+00:08:46,847 --> 00:08:47,615
+Service center
+
+0
+00:08:47,871 --> 00:08:48,383
+Interest payments
+
+0
+00:08:48,895 --> 00:08:50,175
+The times interest earned and
+
+0
+00:08:50,431 --> 00:08:51,967
+The cash coverage ratio
+
+0
+00:08:52,479 --> 00:08:54,015
+Range from 6
+
+0
+00:08:54,271 --> 00:08:54,783
+2
+
+0
+00:08:55,039 --> 00:08:55,551
+10
+
+0
+00:08:56,063 --> 00:08:56,575
+411
+
+0
+00:08:57,087 --> 00:08:58,111
+Answer the company is
+
+0
+00:08:58,367 --> 00:09:00,927
+Very comfortably able to deal with its debt
+
+0
+00:09:01,183 --> 00:09:01,695
+Get service require
+
+0
+00:09:01,951 --> 00:09:02,719
+Apartments
+
+0
+00:09:03,743 --> 00:09:04,767
+Sinopec
+
+0
+00:09:05,023 --> 00:09:05,791
+The numbers are
+
+0
+00:09:06,047 --> 00:09:06,559
+Even
+
+0
+00:09:06,815 --> 00:09:07,583
+Larger one
+
+0
+00:09:08,351 --> 00:09:10,143
+Jersey cash coverage ratio
+
+0
+00:09:10,399 --> 00:09:12,959
+Because side effects of a lot of depreciation to please
+
+0
+00:09:13,215 --> 00:09:14,495
+Fictional amortization
+
+0
+00:09:15,007 --> 00:09:16,287
+It's times interest
+
+0
+00:09:16,799 --> 00:09:17,823
+Coverage ratio
+
+0
+00:09:18,079 --> 00:09:18,847
+Abbott over interest
+
+0
+00:09:19,359 --> 00:09:19,871
+Are also
+
+0
+00:09:20,639 --> 00:09:21,151
+Dr lehigh
+
+0
+00:09:22,431 --> 00:09:23,967
+We conclude our
+
+0
+00:09:24,735 --> 00:09:25,503
+Temporary of
+
+0
+00:09:25,759 --> 00:09:28,063
+Ratios of liquidity and solvency
+
+0
+00:09:28,319 --> 00:09:33,695
+I remind you that the quality is not the same as solvency but both illiquidity and insolvency with
+
+0
+00:09:33,951 --> 00:09:34,719
+Would be dangerous to a cup
+
+0
+00:09:35,743 --> 00:09:37,535
+Policies for maintaining adequate
+
+0
+00:09:37,791 --> 00:09:39,583
+Cash reserves and setting the
+
+0
+00:09:39,839 --> 00:09:41,119
+The capital structure of the company
+
+0
+00:09:41,375 --> 00:09:43,167
+Parkour to the financial strategy
+
+0
+00:09:43,423 --> 00:09:43,935
+Alpha company
